@@ -1,0 +1,50 @@
+
+title: WILD West---Workshop on Inverse problem, Learning & imaging Data in the West 
+
+social-network-links:
+  email: "hong-phuong.dang@centralesupelec.fr"
+  
+
+description: >- # this means to ignore newlines until "baseurl:"
+  The WILD West workshop aims at bringing together European teams working on inverse problem, machine learning in imaging.
+  
+  
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://wildwestworkshop.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+
+navbar-links:
+  About: "/"
+  Program: "program"
+  Registration: "registration"
+  Venue: "venue"
+  Organizing Committee: "organizingcommittee"
+  
+  
+
+# Image to show in the navigation bar - works best with a square image
+# Remove this parameter if you don't want an image in the navbar
+avatar: "./logo-celtic.png" 
+
+# By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
+round-avatar: true
+
+
+#twitter_username: jekyllrb
+#github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+# theme: minima
+theme: beautiful-jekyll-theme
+plugins:
+  - jekyll-feed
+
+# Exclude from processing.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - bundle
+  - _site
+  - vendor
+
+permalink: /:year-:month-:day-:title/
