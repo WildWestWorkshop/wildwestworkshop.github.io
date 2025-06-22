@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: WILD West 
-subtitle: Workshop on Inverse problem, Learning & imaging Data in the West
+title: Wild West 
+subtitle: Workshop on Inverse problem, Learning, Imaging & Data Science in the West
 # <img style="display: block; margin: auto;" alt="Inserm" src="/images/logos/inserm.png"> 
 ---
 <p style="text-align: center;"> <span style="font-size:larger;">CentraleSupélec, Rennes, France</span></p><img title="a title" alt="Rennes" src="/images/supelec1.jpg">
