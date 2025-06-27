@@ -48,3 +48,9 @@ exclude:
   - vendor
 
 permalink: /:year-:month-:day-:title/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      css: "/assets/css/custom.css"
