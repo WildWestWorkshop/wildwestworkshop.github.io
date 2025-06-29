@@ -4,7 +4,7 @@
 
 layout: home
 title: AI WILD West 
-subtitle: AI Workshop on Inverse problem, Learning, Imaging & Data Science in the West
+subtitle: AI Workshop on Inverse Problem, Learning, Imaging & Data Science in the West
 # <img style="display: block; margin: auto;" alt="Inserm" src="/images/logos/inserm.png"> 
 ---
 <p style="text-align: center;"> <span style="font-size:larger;">CentraleSupélec, Rennes, France</span></p><img title="a title" alt="Rennes" src="/images/supelec1.jpg">
