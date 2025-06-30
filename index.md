@@ -12,7 +12,7 @@ subtitle: AI Workshop on Inverse Problem, Learning, Imaging & Data Science in th
 
 ## Objectives of the workshop
 
-- Bring together European teams working inverse problems, machine learning and imaging
+- Bring together European teams working on inverse problems, machine learning and imaging
 - Create or strengthen connections and collaborations 
 - Give young researchers the opportunity to present their work and meet leading researchers in the field in a friendly environment
 
