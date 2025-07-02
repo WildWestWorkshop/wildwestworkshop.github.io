@@ -5,8 +5,10 @@ title: Program
 
 <h2 style="color: #e65100;">Invited Speakers</h2>
 
-- <a href="https://c-elvira.github.io" target="_blank">Clément Elvira</a> (CentraleSupélec, IETR, France)
-
+- <a href="https://c-elvira.github.io" target="_blank">Clément Elvira</a> (IETR, CentraleSupélec, France)
+- <a href="https://bpascal-fr.github.io" target="_blank">Barbara Pascal</a> (CNRS, LS2N, France)
+- <a href="https://tachella.github.io" target="_blank">Julián Tachella</a> (CNRS, ENS Lyon, France)
+- <a href="https://www.math.univ-toulouse.fr/~weiss/index.html" target="_blank">Pierre Weiss</a> (CNRS, IRIT, France)
 
 <h2 style="color: #e65100;">Schedule</h2>
 
