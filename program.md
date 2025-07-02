@@ -12,6 +12,7 @@ title: Program
 
 <h2 style="color: #e65100;">Schedule</h2>
 Coming soon ...
+
 <!--  **Day 1**
 - 9h15 : 	**Welcome**
 - 9h45-9h55 : **Introduction of the workshop**
