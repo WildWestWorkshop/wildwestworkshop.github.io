@@ -11,8 +11,8 @@ title: Program
 - <a href="https://www.math.univ-toulouse.fr/~weiss/index.html" target="_blank">Pierre Weiss</a> (CNRS, IRIT, France)
 
 <h2 style="color: #e65100;">Schedule</h2>
-
-**Day 1**
+Coming soon ...
+<!--  **Day 1**
 - 9h15 : 	**Welcome**
 - 9h45-9h55 : **Introduction of the workshop**
 - 10h00-10h40 : P1
@@ -25,9 +25,9 @@ title: Program
 - 15h25	: **coffee break**
 - 15h45-16h25 :	P4
 - 16h35-16h55 :	C4
-- 17h00-17h20 :	C5
+- 17h00-17h20 :	C5-->
 	
-**Day 2**
+<!--**Day 2**
 - 9h00-9h40 :	P5
 - 10h00-10h20 :	C6
 - 10h25 :	**coffee break**
@@ -37,4 +37,4 @@ title: Program
 - 12h25	: **lunch break**
 - 14h00-14h40	: P8
 - 15h00-15h20	: C9
-- ...
+- ... -->
