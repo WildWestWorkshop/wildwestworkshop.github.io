@@ -7,7 +7,18 @@ title: AI WILD West
 subtitle: AI Workshop on Inverse Problem, Learning, Imaging & Data Science in the West
 # <img style="display: block; margin: auto;" alt="Inserm" src="/images/logos/inserm.png"> 
 ---
-<p style="text-align: center;"> <span style="font-size:larger;">CentraleSupélec, Rennes, France</span></p><img title="a title" alt="Rennes" src="/images/supelec1.jpg">
+<p style="text-align: center;"> 
+  <span style="font-size: larger;">CentraleSupélec, Rennes, France</span>
+</p>
+
+<p style="text-align: center;">
+  <span style="font-size: medium;">January 29–30 2026</span>
+</p>
+
+<p style="text-align: center;">
+  <img title="a title" alt="Rennes" src="/images/supelec1.jpg">
+</p>
+
 
 
 ## Objectives of the workshop
