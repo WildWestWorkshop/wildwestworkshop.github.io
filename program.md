@@ -12,8 +12,8 @@ title: Program
 
 <h2 style="color: #e65100;">Call for contributions</h2>
 We are pleased to launch a call for contributions. Those wishing to present their work are invited to submit a title and an extended abstract (maximum 2 pages) to both organizers of the event.
-- Hong-Phuong Dang : <a href="mailto:hong-phuong.dang@centralesupelec.fr">hong-phuong.dang@centralesupelec.fr</a><br>
- - Alexandre Bousse : <a href="mailto:alexandre.bousse@univ-brest.fr">alexandre.bousse@univ-brest.fr</a><br>
+- Hong-Phuong Dang : <a href="mailto:hong-phuong.dang@centralesupelec.fr">hong-phuong.dang@centralesupelec.fr</a>
+ - Alexandre Bousse : <a href="mailto:alexandre.bousse@univ-brest.fr">alexandre.bousse@univ-brest.fr</a>
 <strong>Deadline for submission</strong>: December  19, 2025.
 
 <h2 style="color: #e65100;">Schedule</h2>
