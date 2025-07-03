@@ -11,10 +11,16 @@ title: Program
 - <a href="https://www.math.univ-toulouse.fr/~weiss/index.html" target="_blank">Pierre Weiss</a> (CNRS, IRIT, France)
 
 <h2 style="color: #e65100;">Call for contributions</h2>
+<p>
 We are pleased to launch a call for contributions. Those wishing to present their work are invited to submit a title and an extended abstract (maximum 2 pages) to both organizers of the event.
-- Hong-Phuong Dang : <a href="mailto:hong-phuong.dang@centralesupelec.fr">hong-phuong.dang@centralesupelec.fr</a>
- - Alexandre Bousse : <a href="mailto:alexandre.bousse@univ-brest.fr">alexandre.bousse@univ-brest.fr</a>
-<strong>Deadline for submission</strong>: December  19, 2025.
+</p>
+
+<ul>
+  <li><strong>Hong-Phuong Dang</strong>: <a href="mailto:hong-phuong.dang@centralesupelec.fr">hong-phuong.dang@centralesupelec.fr</a></li>
+  <li><strong>Alexandre Bousse</strong>: <a href="mailto:alexandre.bousse@univ-brest.fr">alexandre.bousse@univ-brest.fr</a></li>
+</ul>
+
+<p><strong>Deadline for submission</strong>: December 19, 2025.</p>
 
 <h2 style="color: #e65100;">Schedule</h2>
 Coming soon ...
