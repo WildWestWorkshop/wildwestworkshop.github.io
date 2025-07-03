@@ -8,7 +8,7 @@ subtitle: AI Workshop on Inverse Problem, Learning, Imaging & Data Science in th
 # <img style="display: block; margin: auto;" alt="Inserm" src="/images/logos/inserm.png"> 
 ---
 <p style="text-align: center;"> 
-  <span style="font-size: larger;"><strong>CentraleSupélec, Rennes, France</strong>strong></span>
+  <span style="font-size: larger;"><strong>CentraleSupélec, Rennes, France</strong></span>
 </p>
 
 <p style="text-align: center;">
