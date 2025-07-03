@@ -8,11 +8,11 @@ subtitle: AI Workshop on Inverse Problem, Learning, Imaging & Data Science in th
 # <img style="display: block; margin: auto;" alt="Inserm" src="/images/logos/inserm.png"> 
 ---
 <p style="text-align: center;"> 
-  <span style="font-size: larger;">CentraleSupélec, Rennes, France</span>
+  <span style="font-size: larger;">**CentraleSupélec, Rennes, France**</span>
 </p>
 
 <p style="text-align: center;">
-  <span style="font-size: medium;">January 29–30 2026</span>
+  <span style="font-size: larger;">January 29–30 2026</span>
 </p>
 
 <p style="text-align: center;">
