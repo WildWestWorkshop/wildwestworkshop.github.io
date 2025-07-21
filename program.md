@@ -13,7 +13,8 @@ title: Program
 <h2 style="color: #e65100;">Call for contributions</h2>
 We are pleased to launch a call for contributions. Those interested in presenting their work are invited to submit a title and an extended abstract (maximum 2 pages). There is no required format — it can be a two-page LaTeX document or a simple summary.
 
-If you wish to contribute to the workshop, please send an email with the subject line "Workshop Contribution", including the title of your contribution, to:<p>[aiwildwest.workshop@gmail.com](mailto:aiwildwest.workshop@gmail.com)</p>
+If you wish to contribute to the workshop, please send an email with the subject line "Workshop Contribution", including the title of your contribution, to
+<p>[aiwildwest.workshop@gmail.com](mailto:aiwildwest.workshop@gmail.com)</p>
 
 Depending on the number of contributions received, we may organise a poster session during the lunch break.
 
