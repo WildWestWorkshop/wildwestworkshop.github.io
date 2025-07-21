@@ -15,9 +15,76 @@ subtitle: Artificial Intelligence Workshop on Inverse problem, Learning, imaging
   <span style="font-size: larger;">January 29–30 2026</span>
 </p>
 
+<style>
+.slideshow-container {
+  max-width: 600px;
+  position: relative;
+  margin: auto;
+}
+
+.slide {
+  display: none;
+  text-align: center;
+}
+
+.slide img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.fade {
+  animation: fadeEffect 1.5s;
+}
+
+@keyframes fadeEffect {
+  from {opacity: 0.4} 
+  to {opacity: 1}
+}
+</style>
+
+<div class="slideshow-container">
+
+  <div class="slide fade">
+    <img src="/images/supelec1.jpg" alt="Rennes 1">
+  </div>
+
+  <div class="slide fade">
+    <img src="/images/rennes2.jpg" alt="Rennes 2">
+  </div>
+
+  <div class="slide fade">
+    <img src="/images/rennes4.jpg" alt="Rennes 3">
+  </div>
+
+  <div class="slide fade">
+    <img src="/images/rennes2.jpg" alt="Rennes 4">
+  </div>
+
+</div>
+
+<script>
+let slideIndex = 0;
+showSlides();
+
+function showSlides() {
+  let i;
+  const slides = document.getElementsByClassName("slide");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
+  }
+  slideIndex++;
+  if (slideIndex > slides.length) { slideIndex = 1 }    
+  slides[slideIndex-1].style.display = "block";  
+  setTimeout(showSlides, 3000); // Change image every 3 seconds
+}
+</script>
+
+<!--
 <p style="text-align: center;">
-  <img title="a title" alt="Rennes" src="/images/supelec1.jpg">
+<img title="a title" alt="Rennes" src="/images/supelec1.jpg">
 </p>
+-->
 
 
 
