@@ -52,16 +52,33 @@ subtitle: Artificial Intelligence Workshop on Inverse problem, Learning, imaging
   </div>
 
   <div class="slide fade">
-    <img src="/images/rennes2.jpg" alt="Rennes 2">
+    <img src="/images/rennes8.jpg" alt="Place de la Mairie">
   </div>
 
   <div class="slide fade">
-    <img src="/images/rennes4.jpg" alt="Rennes 3">
+    <img src="/images/rennes3.jpg" alt="République">
   </div>
 
   <div class="slide fade">
-    <img src="/images/rennes2.jpg" alt="Rennes 4">
+    <img src="/images/rennes7.jpg" alt="Saint Anne">
   </div>
+
+  <div class="slide fade">
+    <img src="/images/rennes5.jpg" alt="Thabor ">
+  </div>
+
+  <div class="slide fade">
+    <img src="/images/rennes4.jpg" alt="Rennes">
+  </div>
+
+  <div class="slide fade">
+    <img src="/images/rennes6.jpg" alt="Mairie de Rennes">
+  </div>
+
+   <div class="slide fade">
+    <img src="/images/rennes2.jpg" alt="Place du parlement de Bretagne">
+  </div>
+
 
 </div>
 
