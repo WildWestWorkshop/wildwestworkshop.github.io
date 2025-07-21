@@ -12,3 +12,4 @@ group :jekyll_plugins do
 end
 
 gem "liquid", "~> 4.0.4"
+gem "jekyll-remote-theme"

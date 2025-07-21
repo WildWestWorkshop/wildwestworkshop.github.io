@@ -20,8 +20,13 @@ The workshop will take place at **CentraleSupélec - Rennes campus**
 
 **Rennes**, the capital of Brittany, is a city that combines tradition and modernity. Located just **1 hour 25 minutes from Paris by train** thanks to the high-speed line, Rennes is easily accessible and well connected to other major French cities.
 
-Rennes offers a well-developed public transport network, making it easy to travel throughout the city. Transport in the city of Rennes is managed by the **STAR** company.  
-Where possible, we recommend the use of public transport.
+Rennes offers a well-developed public transport network, making it easy to travel throughout the city. Transport in the city of Rennes is managed by the **STAR** company.  Where possible, we recommend the use of public transport.
+
+<p style="text-align: center;">
+  <img title="a title" alt="Rennes" src="/images/gare_rennes.jpg">
+</p>
+
+
 
 ### 🚇 By metro and bus
 
@@ -44,3 +49,11 @@ From the Rennes ring road (**N136**):
 
 Visitor parking is available near the main campus entrance.  
 Please follow the signs to the designated parking spaces.
+
+### 🇬🇧 From the UK
+
+There are plenty of options available to reach Rennes from the UK:
+
+- Ferry from Portsmouth to Saint Malo then train to Rennes.
+- Flight from London Heathrow or Gatwick, or from Southampton.
+- Eurostar from London to Paris then TGV from Paris to Rennes.
