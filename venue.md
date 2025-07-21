@@ -27,7 +27,7 @@ Where possible, we recommend the use of public transport.
 
 The city of Rennes has two automatic metro lines (lines **A** and **B**).
 
-From the Rennes train station, the **CentraleSupélec Rennes campus** is served by **line B** (station "**Atalante**", direction "**Via Silva**").
+From the Rennes train station (station "**Gare**") , the **CentraleSupélec Rennes campus** is served by **line B** (station "**Atalante**", direction "**Via Silva**").
 
 Upon exiting the Atalante station, follow the signs for **Avenue de la Boulaie** and the CentraleSupélec campus. The campus is approximately a **5-minute walk** from the station.
 
