@@ -27,11 +27,16 @@ subtitle: Artificial Intelligence Workshop on Inverse problem, Learning, imaging
 }
 
 .slide {
-   display: none;
   position: absolute;
   width: 100%;
   height: 100%;
-  text-align: center;
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+}
+
+.slide.active {
+  opacity: 1;
+  z-index: 1;
 }
 
 .slide img {
@@ -39,15 +44,6 @@ subtitle: Artificial Intelligence Workshop on Inverse problem, Learning, imaging
   height: 100%;
   object-fit: cover;
   border-radius: 10px;
-}
-
-.fade {
-  animation: fadeEffect 3s;
-}
-
-@keyframes fadeEffect {
-  from {opacity: 0.4} 
-  to {opacity: 1}
 }
 </style>
 
@@ -90,19 +86,22 @@ subtitle: Artificial Intelligence Workshop on Inverse problem, Learning, imaging
 
 <script>
 let slideIndex = 0;
-showSlides();
+const slides = document.querySelectorAll(".slide");
 
 function showSlides() {
-  let i;
-  const slides = document.getElementsByClassName("slide");
-  for (i = 0; i < slides.length; i++) {
-    slides[i].style.display = "none";  
-  }
-  slideIndex++;
-  if (slideIndex > slides.length) { slideIndex = 1 }    
-  slides[slideIndex-1].style.display = "block";  
-  setTimeout(showSlides, 10000); // Change image every 4 seconds
+  slides.forEach((slide, i) => {
+    slide.classList.remove("active");
+  });
+
+  slideIndex = (slideIndex + 1) % slides.length;
+  slides[slideIndex].classList.add("active");
 }
+
+// Initialize first slide
+slides[0].classList.add("active");
+
+// Change every 6 seconds with fade
+setInterval(showSlides, 6000);
 </script>
 
 
