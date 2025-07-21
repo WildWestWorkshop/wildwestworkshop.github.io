@@ -23,62 +23,45 @@ subtitle: Artificial Intelligence Workshop on Inverse problem, Learning, imaging
 }
 
 .slide {
-  display: none;
-  text-align: center;
-}
-
-.slide img {
+  position: absolute;
   width: 100%;
-  height: auto;
-  border-radius: 10px;
+  opacity: 0;
+  transition: opacity 2s ease-in-out;
 }
 
-.fade {
-  animation: fadeEffect 3s;
-}
-
-@keyframes fadeEffect {
-  from {opacity: 0.4} 
-  to {opacity: 1}
+.slide.active {
+  opacity: 1;
+  z-index: 1;
 }
 </style>
 
 <div class="slideshow-container">
-
-  <div class="slide fade">
-    <img src="/images/supelec1.jpg" alt="CentraleSupélec">
-  </div>
-
-  <div class="slide fade">
-    <img src="/images/rennes2.jpg" alt="Rennes 2">
-  </div>
-
-  <div class="slide fade">
-    <img src="/images/rennes4.jpg" alt="Rennes 3">
-  </div>
-
-  <div class="slide fade">
-    <img src="/images/rennes2.jpg" alt="Rennes 4">
-  </div>
-
+  <img src="/images/supelec1.jpg" alt="CentraleSupélec">
+  <img src="/images/rennes2.jpg" alt="Rennes 2">
+  <img src="/images/rennes4.jpg" alt="Rennes 3">
+  <img src="/images/rennes3.jpg" alt="Rennes 3">
 </div>
 
 <script>
 let slideIndex = 0;
-showSlides();
+const slides = document.getElementsByClassName("slide");
 
 function showSlides() {
-  let i;
-  const slides = document.getElementsByClassName("slide");
-  for (i = 0; i < slides.length; i++) {
-    slides[i].style.display = "none";  
+  // Masquer toutes les images
+  for (let i = 0; i < slides.length; i++) {
+    slides[i].classList.remove("active");
   }
-  slideIndex++;
-  if (slideIndex > slides.length) { slideIndex = 1 }    
-  slides[slideIndex-1].style.display = "block";  
-  setTimeout(showSlides, 4000); // Change image every 4 seconds
+  // Afficher la suivante
+  slideIndex = (slideIndex + 1) % slides.length;
+  slides[slideIndex].classList.add("active");
+
+  setTimeout(showSlides, 5000); // délai entre les changements
 }
+
+setTimeout(showSlides, 5000); // lancement après 5s (première image reste 5s)
 </script>
+
+
 
 <!--
 <p style="text-align: center;">
