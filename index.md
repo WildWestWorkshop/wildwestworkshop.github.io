@@ -46,7 +46,7 @@ subtitle: Artificial Intelligence Workshop on Inverse problem, Learning, imaging
 <div class="slideshow-container">
 
   <div class="slide fade">
-    <img src="/images/supelec1.jpg" alt="Rennes 1">
+    <img src="/images/supelec1.jpg" alt="CentraleSupélec">
   </div>
 
   <div class="slide fade">
@@ -76,7 +76,7 @@ function showSlides() {
   slideIndex++;
   if (slideIndex > slides.length) { slideIndex = 1 }    
   slides[slideIndex-1].style.display = "block";  
-  setTimeout(showSlides, 3000); // Change image every 3 seconds
+  setTimeout(showSlides, 6000); // Change image every 3 seconds
 }
 </script>
 
