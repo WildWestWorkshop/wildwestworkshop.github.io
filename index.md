@@ -20,18 +20,24 @@ subtitle: Artificial Intelligence Workshop on Inverse problem, Learning, imaging
 <style>
 .slideshow-container {
   max-width: 600px;
+  height: 400px;
   position: relative;
   margin: auto;
+  overflow: hidden;
 }
 
 .slide {
-  display: none;
+   display: none;
+  position: absolute;
+  width: 100%;
+  height: 100%;
   text-align: center;
 }
 
 .slide img {
   width: 100%;
-  height: auto;
+  height: 100%;
+  object-fit: cover;
   border-radius: 10px;
 }
 
