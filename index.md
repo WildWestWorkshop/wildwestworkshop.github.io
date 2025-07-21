@@ -15,6 +15,8 @@ subtitle: Artificial Intelligence Workshop on Inverse problem, Learning, imaging
   <span style="font-size: larger;">January 29–30 2026</span>
 </p>
 
+
+
 <style>
 .slideshow-container {
   max-width: 600px;
@@ -23,42 +25,61 @@ subtitle: Artificial Intelligence Workshop on Inverse problem, Learning, imaging
 }
 
 .slide {
-  position: absolute;
-  width: 100%;
-  opacity: 0;
-  transition: opacity 2s ease-in-out;
+  display: none;
+  text-align: center;
 }
 
-.slide.active {
-  opacity: 1;
-  z-index: 1;
+.slide img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.fade {
+  animation: fadeEffect 3s;
+}
+
+@keyframes fadeEffect {
+  from {opacity: 0.4} 
+  to {opacity: 1}
 }
 </style>
 
 <div class="slideshow-container">
-  <img src="/images/supelec1.jpg" alt="CentraleSupélec">
-  <img src="/images/rennes2.jpg" alt="Rennes 2">
-  <img src="/images/rennes4.jpg" alt="Rennes 3">
-  <img src="/images/rennes3.jpg" alt="Rennes 3">
+
+  <div class="slide fade">
+    <img src="/images/supelec1.jpg" alt="CentraleSupélec">
+  </div>
+
+  <div class="slide fade">
+    <img src="/images/rennes2.jpg" alt="Rennes 2">
+  </div>
+
+  <div class="slide fade">
+    <img src="/images/rennes4.jpg" alt="Rennes 3">
+  </div>
+
+  <div class="slide fade">
+    <img src="/images/rennes2.jpg" alt="Rennes 4">
+  </div>
+
 </div>
 
 <script>
 let slideIndex = 0;
-const slides = document.getElementsByClassName("slide");
+showSlides();
 
 function showSlides() {
-  // Masquer toutes les images
-  for (let i = 0; i < slides.length; i++) {
-    slides[i].classList.remove("active");
+  let i;
+  const slides = document.getElementsByClassName("slide");
+  for (i = 0; i < slides.length; i++) {
+    slides[i].style.display = "none";  
   }
-  // Afficher la suivante
-  slideIndex = (slideIndex + 1) % slides.length;
-  slides[slideIndex].classList.add("active");
-
-  setTimeout(showSlides, 5000); // délai entre les changements
+  slideIndex++;
+  if (slideIndex > slides.length) { slideIndex = 1 }    
+  slides[slideIndex-1].style.display = "block";  
+  setTimeout(showSlides, 3000); // Change image every 4 seconds
 }
-
-setTimeout(showSlides, 5000); // lancement après 5s (première image reste 5s)
 </script>
 
 
