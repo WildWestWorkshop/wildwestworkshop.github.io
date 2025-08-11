@@ -4,6 +4,7 @@ title: Program
 ---
 
 <h2 style="color: #e65100;">Plenary Speakers</h2>
+- [Laure Blanc-Féraud](https://webusers.i3s.unice.fr/~blancf/){:target="_blank"} (CNRS, I3S, Univ. Côte d’Azur, Sophia Antipolis France)
 - [Émilie Chouzenoux](https://pages.saclay.inria.fr/emilie.chouzenoux/){:target="_blank"} (Inria, CentraleSupélec, Univ. Paris Saclay, France)  
 - [Clément Elvira](https://c-elvira.github.io){:target="_blank"} (IETR, CentraleSupélec, France)  
 - [Barbara Pascal](https://bpascal-fr.github.io){:target="_blank"} (CNRS, LS2N, France)  
