@@ -24,15 +24,3 @@
   height: auto; !important;
 }
 
-/* S'applique à tous les titres générés via `title:` du front matter */
-.page-heading {
-  padding-top: 2em;   /* décale le bloc titre vers le bas */
-}
-
-.page-heading h1 {
-  font-size: 20pt;   /* optionnel : réduire un peu la taille */
-  margin-bottom: 0.5em; /* espace après le titre si besoin */
-}
-
-  font-size: 1em;  /* optionnel : réduit un peu la taille */
-}
