@@ -24,3 +24,6 @@
   height: auto; !important;
 }
 
+.page-heading h1 {
+  margin-top: 2em;   /* décale le titre vers le bas */
+}
