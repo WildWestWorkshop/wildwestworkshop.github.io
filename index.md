@@ -4,7 +4,7 @@
 
 layout: home
 title: AI WILD West 
-subtitle: Artificial Intelligence Workshop on Inverse problem, Learning, imaging & Data science in the West
+subtitle: Artificial Intelligence Workshop on Inverse problem, Learning, Imaging & Data science in the West
 # <img style="display: block; margin: auto;" alt="Inserm" src="/images/logos/inserm.png"> 
 ---
 <p style="text-align: center;"> 
