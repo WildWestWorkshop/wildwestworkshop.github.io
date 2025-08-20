@@ -12,7 +12,7 @@ subtitle: Artificial Intelligence Workshop on Inverse problem, Learning, Imaging
 </p>
 
 <p style="text-align: center;">
-  <span style="font-size: larger;">January 29–30 2026</span>
+  <span style="font-size: larger;">January 29–30, 2026</span>
 </p>
 
 
