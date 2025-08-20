@@ -26,4 +26,8 @@
 
 .page-heading h1 {
   margin-top: 2em;   /* décale le titre vers le bas */
+  margin-bottom: 0.5em; /* espace après le titre si besoin */
+}
+.page-heading {
+  padding-top: 2em;   /* décale le bloc titre vers le bas */
 }
