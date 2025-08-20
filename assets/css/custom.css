@@ -24,7 +24,7 @@
   height: auto; !important;
 }
 
-.page-title {
-  margin-top: 2em;  /* descend un peu le titre */
-  font-size: 1.8em; /* optionnel : ajuste la taille */
+.page-heading h1 {
+  margin-top: 2em;   /* décale le titre vers le bas */
+  font-size: 1em;  /* optionnel : réduit un peu la taille */
 }
