@@ -3,9 +3,9 @@ layout: page
 title: Organizing Committee
 ---
 
-<h3>Workshop Chairs</h3>
-- [Hong-Phuong Dang](https://sites.google.com/view/hongphuong-dang/accueil) (CentraleSupélec, IETR, Rennes, France)
-- [Alexandre Bousse](https://abousse.github.io) (INSERM, LaTIM, Brest, France)
+<h3>Workshop Chairs</h3> 
+- [Hong-Phuong Dang](https://sites.google.com/view/hongphuong-dang/accueil) (CentraleSupélec, IETR, Rennes, France) – *Main Chair*
+- [Alexandre Bousse](https://abousse.github.io) (INSERM, LaTIM, Brest, France) – *Co-Chair*
 
 <h3>Reviewing Committee</h3>
 - [Hong-Phuong Dang](https://sites.google.com/view/hongphuong-dang/accueil) (CentraleSupélec, IETR, Rennes, France)
