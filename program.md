@@ -23,7 +23,7 @@ If you wish to contribute to the workshop, please send an email with the subject
 Depending on the number of contributions received, we may organise a poster session during the lunch break.
 
 <p><strong>Submission deadline</strong>: <span style="color: darkred;">December 1st, 2025 </span></p>
-<p><strong>Notification date</strong>: <span style="color: darkred;">January 5, 2026. </span></p>
+<p><strong>Notification date</strong>: <span style="color: darkred;">January 5, 2026 </span></p>
 
 
 <h2 style="color: #e65100;">Schedule</h2>
