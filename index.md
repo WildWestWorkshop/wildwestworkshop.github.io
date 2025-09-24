@@ -126,6 +126,7 @@ setInterval(showSlides, 6000);
 - Machine and Deep Learning
 - Signal Processing
 - Medical Imaging
+- Translational Research
 
 
 <br /> 
