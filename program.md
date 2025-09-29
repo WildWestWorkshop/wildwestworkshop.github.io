@@ -8,8 +8,10 @@ title: Program
 - [Émilie Chouzenoux](https://pages.saclay.inria.fr/emilie.chouzenoux/){:target="_blank"} (Inria, CentraleSupélec, Univ. Paris Saclay, France)  
 - [Clément Elvira](https://c-elvira.github.io){:target="_blank"} (IETR, CentraleSupélec, France)  
 - [Barbara Pascal](https://bpascal-fr.github.io){:target="_blank"} (CNRS, LS2N, France)  
+*Automated data-driven inverse problem resolution: Applications in microfluidics and epidemiology*
 - [Andrew Reader](https://www.kcl.ac.uk/people/andrew-reader){:target="_blank"} (King’s College, London, United Kingdom) 
-- [Georg Schramm](https://gschramm.github.io){:target="_blank"} (KU Leuven, Belgium)
+- [Georg Schramm](https://gschramm.github.io){:target="_blank"} (KU Leuven, Belgium)  
+*Opportunities and Challenges for Machine Learning in Positron Emission Tomography*
 - [Julián Tachella](https://tachella.github.io){:target="_blank"} (CNRS, ENS Lyon, France)  
 - [Pierre Weiss](https://www.math.univ-toulouse.fr/~weiss/index.html){:target="_blank"} (CNRS, IRIT, France)  
 
