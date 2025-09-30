@@ -124,9 +124,11 @@ setInterval(showSlides, 6000);
 
 - Inverse Problems
 - Machine and Deep Learning
-- Signal Processing
-- Medical Imaging
 - Translational Research
+- Medical Imaging
+- Data science
+- Signal Processing
+
 
 
 <br /> 
