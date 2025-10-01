@@ -20,10 +20,10 @@ title: Program
   Abstract:TBA
   </div>
 - [Barbara Pascal](https://bpascal-fr.github.io){:target="_blank"} (CNRS, LS2N, France)  
-<strong style="font-size: 0.9em; color: black;">Automated data-driven inverse problem resolution: Applications in microfluidics and epidemiology</strong><br>
-<div style="font-size: 0.9em; text-align: justify; color: #555; margin-top:0.2em;">
-	Abstract: TBA
-	</div>
+ <strong style="font-size:0.9em; color:black;">Automated data-driven inverse problem resolution: Applications in microfluidics and epidemiology</strong><br>
+  <div style="font-size:0.9em; text-align:justify; color:#555; margin-top:0.2em;">
+  Abstract:TBA
+  </div>
 - [Andrew Reader](https://www.kcl.ac.uk/people/andrew-reader){:target="_blank"} (King’s College, London, United Kingdom) 
 - [Georg Schramm](https://gschramm.github.io){:target="_blank"} (KU Leuven, Belgium)  
   <strong style="font-size:0.9em; color:black;">Opportunities and Challenges for Machine Learning in Positron Emission Tomography</strong><br>
