@@ -115,13 +115,11 @@ setInterval(showSlides, 6000);
 
 
 ## Objectives of the workshop
-
-- Bring together European teams working on inverse problems, machine learning and imaging
+- Bring together researchers working at the interface between artificial intelligence, inverse problems, and applied mathematics, with applications in translational research (bio/health) and data science.
 - Create or strengthen connections and collaborations 
 - Give young researchers the opportunity to present their work and meet leading researchers in the field in a friendly environment
 
 ## Topics
-
 - Inverse Problems
 - Machine and Deep Learning
 - Translational Research
