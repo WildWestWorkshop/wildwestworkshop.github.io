@@ -26,7 +26,7 @@ title: Abstracts
   
 <div style="font-size:0.9em; color:#555; text-align:justify; margin:0.5em; padding:0;">
   <a href="https://bpascal-fr.github.io" target="_blank" style="color:#278BF5; font-weight:bold;">Barbara Pascal</a> (CNRS, LS2N, France) <br>
-  <strong style="color:black;">Automated data-driven inverse problem resolution: Applications in microfluidics & epidemiology</strong><br>
+  <strong style="color:black;font-size:0.9em;">Automated data-driven inverse problem resolution: Applications in microfluidics & epidemiology</strong><br>
   Most inverse problems in signal and image processing are ill-posed.  To remove the ambiguity about the solution and design noise-robust estimators, a priori properties, e.g., smoothness or sparsity,  can be imposed to the solution through regularization. The main bottleneck to use these regularized estimators in practice, i.e., without access to ground truth, is that the quality of the estimates strongly depends on the fine-tuning of regularization parameters. A classical approach to automated and data-driven selection of regularization parameters consists in designing a data-dependent unbiased estimator of the error, the minimization of which provides an approximate of the optimal parameters. The overall procedure is applied to solve two challenging inverse problems in image processing, for tracking multiphase flow through porous media, and in signal processing, to estimate epidemiological indicators.
 </div>
 
