@@ -32,7 +32,7 @@ title: Abstracts
 
 
 <div style="font-size:0.9em; color:#555; text-align:justify; margin:0.5em; padding:0;">
-  <a href="https://www.kcl.ac.uk/people/andrew-reader" target="_blank" style="color:blue; font-weight:bold;">Andrew Reader</a> (King’s College, London, United Kingdom) <br>
+  <a href="https://www.kcl.ac.uk/people/andrew-reader" target="_blank" style="color:#278BF5; font-weight:bold;">Andrew Reader</a> (King’s College, London, United Kingdom) <br>
   <strong style="color:black;">Title:TBA</strong><br>
   Abstract:TBA
 </div>
