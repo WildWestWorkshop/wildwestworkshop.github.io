@@ -40,7 +40,7 @@ title: Abstracts
 <div style="font-size:0.9em; color:#555; text-align:justify; margin:0.5em; padding:0;">
   <a href="https://gschramm.github.io" target="_blank" style="color:#278BF5; font-weight:bold;">Georg Schramm</a> (KU Leuven, Belgium)<br>
   <strong style="color:black;font-size:0.95em;">Opportunities and Challenges for Machine Learning in Positron Emission Tomography</strong><br>
-  TBA
+  Positron Emission Tomography (PET) reconstructs 3D or 4D images of metabolic and physiological processes from coincident gamma-ray detections after beta-plus decay of a radiotracer. Unfortunately, acquired PET raw data are extremely noisy, sparse and suffer from limited spatial resolution, high dynamic range, and variable contrast. Moreover, the PET reconstruction problem suffers from computationally heavy forward models. Machine Learning (ML) offers promising gains across the the whole PET image generation pipeline - from event-level position and timing estimation to noise suppression and resolution enhancement during or after reconstruction or ML-based PET image analysis. Yet PET poses modality-specific challenges that differ markedly from other inverse problems such as CT or MRI reconstruction, where ML is more mature. This talk surveys recent and emerging ML methods for PET and highlights common pitfalls and constraints that experts from other fields often overlook.
 </div>
 
 <div style="font-size:0.9em; color:#555; text-align:justify; margin:0.5em; padding:0;">
