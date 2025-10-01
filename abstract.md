@@ -6,14 +6,14 @@ title: Abstracts
 <h2 style="color: #e65100;">Plenary Talks</h2>
 
   <div style="font-size:0.9em; color:#555; text-align:justify; margin:0.5em; padding:0;">
-  <a href="https://www.kcl.ac.uk/people/andrew-reader" target="_blank" style="color:#278BF5; font-weight:bold;">Laure Blanc-Féraud</a> (CNRS, I3S, Univ. Côte d’Azur, Sophia Antipolis France)    <br>
+  <a href="https://webusers.i3s.unice.fr/~blancf/" target="_blank" style="color:#278BF5; font-weight:bold;">Laure Blanc-Féraud</a> (CNRS, I3S, Univ. Côte d’Azur, Sophia Antipolis France)    <br>
   <strong style="color:black;font-size:0.92em;">Title:TBA</strong><br>
   Abstract:TBA
 </div>
 
   
   <div style="font-size:0.9em; color:#555; text-align:justify; margin:0.5em; padding:0;">
-  <a href="https://www.kcl.ac.uk/people/andrew-reader" target="_blank" style="color:#278BF5; font-weight:bold;">Émilie Chouzenoux</a> (Inria, CentraleSupélec, Univ. Paris Saclay, France)    <br>
+  <a href="https://pages.saclay.inria.fr/emilie.chouzenoux/index.html" target="_blank" style="color:#278BF5; font-weight:bold;">Émilie Chouzenoux</a> (Inria, CentraleSupélec, Univ. Paris Saclay, France)    <br>
   <strong style="color:black;font-size:0.92em;">Unrolled Majorization-Minimization Approaches for Sparse Signal Reconstruction in Analytical Chemistry</strong><br>
   Inverse problems in signal processing can be solved through iterative optimization approaches or deep learning. Despite their effectiveness, both these methods face practical or theoretical barriers. Recently, a new strategy, called ’unrolling’, which consists of merging these two approaches, has emerged in the literature of signal/image processing. In this talk, we explore this methodology in the context of restoring sparse signals derived from analytical chemistry. We propose U-HQ, a deep neural network based on unrolling a half-quadratic majorization-minimization algorithm. Its structure enables supervised learning of hyperparameters guided by the data. It incorporates an innovative dictionary of activation functions derived from the potentials of the initial variational model, including an original hybrid sparsity-promoting penalty term [1]. We evaluate the effectiveness of U-HQ in restoring realistic mass spectrometry data degraded by various blur kernels and noise levels.  We furthermore conduct an in-depth experimental study to compare several iterative and unrolled methods, including U-HQ, for restoring simulated and real chromatographic data [2].<br>
 [1] M. Gharbi, E. Chouzenoux, and J.-C. Pesquet. An Unrolled Half-Quadratic Approach for Sparse Signal Recovery in Spectroscopy. Signal Processing, vol. 218, pp. 109369, May 2024 <br>
@@ -21,7 +21,7 @@ title: Abstracts
 </div>
 
   <div style="font-size:0.9em; color:#555; text-align:justify; margin:0.5em; padding:0;">
-  <a href="https://www.kcl.ac.uk/people/andrew-reader" target="_blank" style="color:#278BF5; font-weight:bold;">Clément Elvira</a> (IETR, CentraleSupélec, France)  <br>
+  <a href="https://c-elvira.github.io" target="_blank" style="color:#278BF5; font-weight:bold;">Clément Elvira</a> (IETR, CentraleSupélec, France)  <br>
   <strong style="color:black;font-size:0.92em;">Title:TBA</strong><br>
   Abstract:TBA
 </div>
