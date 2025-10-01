@@ -6,6 +6,8 @@ Registration is free and can be completed via [this form](https://docs.google.co
 
 The deadline for registration (subject to availability) is January 8, 2026.
 
+If you wish to cancel your registration, please send an email to [aiwildwest.workshop@gmail.com](mailto:aiwildwest.workshop@gmail.com) with your full name and the subject line "Workshop Cancellation".
+
 
 
 
