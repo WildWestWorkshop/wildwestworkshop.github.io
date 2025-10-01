@@ -14,12 +14,19 @@ title: Program
 - [Pierre Weiss](https://www.math.univ-toulouse.fr/~weiss/index.html){:target="_blank"} (CNRS, IRIT, France)  
 
 <h2 style="color: #e65100;">Call for contributions</h2>
+ <div text-align:justify; margin:0.5em; padding:0;">
 We are pleased to launch a call for contributions. Those interested in presenting their work are invited to submit a title and an extended abstract (maximum 2 pages). There is no required format — it can be a two-page LaTeX document or a simple summary.
-
+</div>
+ <div text-align:justify; margin:0.5em; padding:0;">
 If you wish to contribute to the workshop, please send an email with the subject line "Workshop Contribution", including the title of your contribution, to
-[aiwildwest.workshop@gmail.com](mailto:aiwildwest.workshop@gmail.com)
-
+[aiwildwest.workshop@gmail.com](mailto:aiwildwest.workshop@gmail.com) <br>
 Depending on the number of contributions received, we may organise a poster session during the lunch break.
+</div>
+
+
+
+
+
 
 <p><strong>Submission deadline</strong>: <span style="color: darkred;">December 1st, 2025 </span></p>
 <p><strong>Notification date</strong>: <span style="color: darkred;">January 5, 2026 </span></p>
