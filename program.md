@@ -14,6 +14,7 @@ title: Program
 *Opportunities and Challenges for Machine Learning in Positron Emission Tomography*
 - [Julián Tachella](https://tachella.github.io){:target="_blank"} (CNRS, ENS Lyon, France)  
 - [Pierre Weiss](https://www.math.univ-toulouse.fr/~weiss/index.html){:target="_blank"} (CNRS, IRIT, France)  
+*Analytical solutions for CNN inverse problem solvers*
 
 
 <h2 style="color: #e65100;">Call for contributions</h2>
