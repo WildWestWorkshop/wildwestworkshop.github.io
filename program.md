@@ -15,7 +15,9 @@ title: Program
 - [Julián Tachella](https://tachella.github.io){:target="_blank"} (CNRS, ENS Lyon, France)  
 - [Pierre Weiss](https://www.math.univ-toulouse.fr/~weiss/index.html){:target="_blank"} (CNRS, IRIT, France)  
 *Analytical solutions for CNN inverse problem solvers*
-
+<span style="font-size: 0.9em; color: #555;">
+We provide analytical formulas for minimum mean square error estimators targeted at solving linear inverse problems, subject to constraints such as translation-equivariance and locality. These are natural proxys to model convolutional neural networks (CNN). This theory turns out to predict surprisingly well the output of trained CNNs, at least on points close to the training set. It provides a rather clear route to studying facts such as how to inform the CNNs by the physics to obtain the best performance. Many surprising facts emerge as how to best train a reconstruction network, with data augmentation.
+</span>
 
 <h2 style="color: #e65100;">Call for contributions</h2>
 We are pleased to launch a call for contributions. Those interested in presenting their work are invited to submit a title and an extended abstract (maximum 2 pages). There is no required format — it can be a two-page LaTeX document or a simple summary.
