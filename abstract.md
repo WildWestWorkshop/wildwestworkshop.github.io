@@ -3,7 +3,7 @@ layout: page
 title: Abstracts
 ---
 
-## Plenary Talks
+<h2 style="color: #e65100;">Plenary Talks</h2>
 [Laure Blanc-Féraud](https://webusers.i3s.unice.fr/~blancf/){:target="_blank"} (CNRS, I3S, Univ. Côte d’Azur, Sophia Antipolis France)  
   <strong style="font-size:0.9em; color:black;">Title : TBA </strong><br>
   <div style="font-size:0.9em; text-align:justify; color:#555; margin-top:0.2em;">
@@ -52,4 +52,4 @@ Most existing learning-based methods for solving imaging inverse problems can be
   We provide analytical formulas for minimum mean square error estimators targeted at solving linear inverse problems, subject to constraints such as translation-equivariance and locality. These are natural proxys to model convolutional neural networks (CNN). This theory turns out to predict surprisingly well the output of trained CNNs, at least on points close to the training set. It provides a rather clear route to studying facts such as how to inform the CNNs by the physics to obtain the best performance. Many surprising facts emerge as how to best train a reconstruction network, with data augmentation.
   </div>
 
-## Contributed Talks
+<h2 style="color: #e65100;">Contributed Talks</h2>
