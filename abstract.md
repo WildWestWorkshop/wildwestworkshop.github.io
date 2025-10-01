@@ -42,16 +42,16 @@ Most inverse problems in signal and image processing are ill-posed.  To remove t
   
 
 
-<div style="font-size:0.9em; color:#555; text-align:justify; margin:0; padding:0;">
-  <a href="https://tachella.github.io" target="_blank" style="color:black; font-weight:bold; font-size:0.9em;">Julián Tachella</a> (CNRS, ENS Lyon, France)<br>
+<div style="font-size:0.9em; color:#555; text-align:justify; margin:0.2em; padding:0;">
+  <a href="https://tachella.github.io" target="_blank" style="color:blue; font-weight:bold;">Julián Tachella</a> (CNRS, ENS Lyon, France)<br>
   <strong style="color:black;">Reconstruct Anything Model: a lightweight foundation model for computational imaging</strong><br>
   Most existing learning-based methods for solving imaging inverse problems can be roughly divided into two classes: iterative algorithms, such as plug-and-play and diffusion methods leveraging pretrained denoisers, and unrolled architectures that are trained end-to-end for specific imaging problems. Iterative methods in the first class are computationally costly and often yield suboptimal reconstruction performance, whereas unrolled architectures are generally problem-specific and require expensive training. In this talk, I will present a novel non-iterative, lightweight architecture that incorporates knowledge about the forward operator (acquisition physics and noise parameters) without relying on unrolling. The model is trained to solve a very wide range of inverse problems, such as deblurring, magnetic resonance imaging, computed tomography, inpainting, and super-resolution, and handles arbitrary image sizes and channels, such as grayscale, complex, and color data. In addition, the model can be easily adapted to unseen inverse problems or datasets with a few fine-tuning steps (up to a few images) in a self-supervised way, without ground-truth references. I will present results in various imaging modalities, from medical imaging to low-photon imaging and microscopy. 
 </div>
 
 
   
-<div style="font-size:0.9em; color:#555; text-align:justify; margin:0; padding:0;">
-  <a href="https://www.math.univ-toulouse.fr/~weiss/index.html" target="_blank" style="color:black; font-weight:bold; font-size:0.9em;">Pierre Weiss</a> (CNRS, IRIT, France)<br>
+<div style="font-size:0.9em; color:#555; text-align:justify; margin:0.2em; padding:0;">
+  <a href="https://www.math.univ-toulouse.fr/~weiss/index.html" target="_blank" style="color:blue; font-weight:bold;">Pierre Weiss</a> (CNRS, IRIT, France)<br>
   <strong style="color:black;">Analytical solutions for CNN inverse problem solvers</strong><br>
   We provide analytical formulas for minimum mean square error estimators targeted at solving linear inverse problems, subject to constraints such as translation-equivariance and locality. These are natural proxys to model convolutional neural networks (CNN). This theory turns out to predict surprisingly well the output of trained CNNs, at least on points close to the training set. It provides a rather clear route to studying facts such as how to inform the CNNs by the physics to obtain the best performance. Many surprising facts emerge as how to best train a reconstruction network, with data augmentation.
 </div>
