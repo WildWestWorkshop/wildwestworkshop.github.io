@@ -14,7 +14,8 @@ title: Program
 *Opportunities and Challenges for Machine Learning in Positron Emission Tomography*
 - [Julián Tachella](https://tachella.github.io){:target="_blank"} (CNRS, ENS Lyon, France)  
 - [Pierre Weiss](https://www.math.univ-toulouse.fr/~weiss/index.html){:target="_blank"} (CNRS, IRIT, France)  
-<strong style="font-size: 0.9em; color: black;">Analytical solutions for CNN inverse problem solvers</strong>  
+<strong style="font-size: 0.9em; color: black;">Analytical solutions for CNN inverse problem solvers 
+</strong>  
 <div> style="font-size: 0.9em; text-align: justify; color: #555;">
 We provide analytical formulas for minimum mean square error estimators targeted at solving linear inverse problems, subject to constraints such as translation-equivariance and locality. These are natural proxys to model convolutional neural networks (CNN). This theory turns out to predict surprisingly well the output of trained CNNs, at least on points close to the training set. It provides a rather clear route to studying facts such as how to inform the CNNs by the physics to obtain the best performance. Many surprising facts emerge as how to best train a reconstruction network, with data augmentation.
 </div>
