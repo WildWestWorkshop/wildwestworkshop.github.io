@@ -22,15 +22,10 @@ If you wish to contribute to the workshop, please send an email with the subject
 [aiwildwest.workshop@gmail.com](mailto:aiwildwest.workshop@gmail.com) <br>
 Depending on the number of contributions received, we may organise a poster session during the lunch break.
 </div>
-
-
-
-
-
-
-<p><strong>Submission deadline</strong>: <span style="color: darkred;">December 1st, 2025 </span></p>
-<p><strong>Notification date</strong>: <span style="color: darkred;">January 5, 2026 </span></p>
-
+ <div margin:0.5em; padding:0;">
+<strong>Submission deadline</strong>: <span style="color: darkred;">December 1st, 2025 </span><br>
+<strong>Notification date</strong>: <span style="color: darkred;">January 5, 2026 </span>
+</div>
 
 <h2 style="color: #e65100;">Schedule</h2>
 Coming soon ...
