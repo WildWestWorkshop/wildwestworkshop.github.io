@@ -35,8 +35,23 @@ title: Abstracts
 
 <div style="font-size:0.9em; color:#555; text-align:justify; margin-top:0.5em; padding:0;">
   <a href="https://www.kcl.ac.uk/people/andrew-reader" target="_blank" style="color:#278BF5; font-weight:bold;">Andrew Reader</a> (King’s College, London, United Kingdom) <br>
-  <strong style="color:black;font-size:0.92em;">Title:TBA</strong><br>
-  Abstract:TBA
+  <strong style="color:black;font-size:0.92em;">Generative AI for medical image reconstruction in positron emission tomography (PET)</strong><br>
+  PET image reconstruction has been in ongoing development over many decades, due to the need
+for improved image quality when reconstructing from raw PET data with limited counts and
+limited spatial resolution. Major advances in reconstruction have come from improving the model
+of the data (modelling the imaging physics as well as the noise), and improving the model of the
+reconstructed images (choice of basis functions, and/or choice of regularisation to compensate for
+noise). Up until recently, therefore, maximum a posteriori (MAP) image reconstruction, which
+combines all of these advances, represented the state of the art in PET reconstruction, by
+combining improved data models with more advanced image models (using, for example,
+anatomically-informed prior information to reduce image noise and improve spatial resolution).
+Nonetheless, MAP reconstruction methods still rely either on relatively simple prior information
+(e.g. the relative difference prior) or potentially overly strong prior information (such as
+anatomical guidance from magnetic resonance imaging (MRI)). This talk will start from these foundations and then cover recent progress in the use of deep learning to provide even more powerful modelling for PET image
+reconstruction. The use of supervised deep learning through to the use of generative AI methods
+for reconstruction will be covered, where in the case of generative AI, no longer is a single
+reconstructed image obtained, but instead multiple reconstructed images can be generated, corresponding
+to samples from a learned posterior distribution.
 </div>
 
 <div style="font-size:0.9em; color:#555; text-align:justify; margin-top:0.5em; padding:0;">
