@@ -115,7 +115,7 @@ setInterval(showSlides, 6000);
 
 
 ## Objectives of the workshop
-- Bring together researchers working at the interface between artificial intelligence, inverse problems, and applied mathematics, with applications in translational research and data science.
+- Bring together researchers working at the interface between artificial intelligence, inverse problems, and applied mathematics, with applications in translational research, imaging and data science.
 - Create or strengthen connections and collaborations 
 - Give young researchers the opportunity to present their work and meet leading researchers in the field in a friendly environment
 
