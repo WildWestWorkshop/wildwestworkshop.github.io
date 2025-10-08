@@ -22,8 +22,8 @@ title: Abstracts
 
   <div style="font-size:0.9em; color:#555; text-align:justify; margin-top:0.5em; padding:0;">
   <a href="https://c-elvira.github.io" target="_blank" style="color:#278BF5; font-weight:bold;">Clément Elvira</a> (IETR, CentraleSupélec, France)  <br>
-  <strong style="color:black;font-size:0.92em;">Title:TBA</strong><br>
-  Abstract:TBA
+  <strong style="color:black;font-size:0.92em;">Continuous dictionaries: an introduction and machine learning perspectives</strong><br>
+Sparse decomposition in continuous dictionaries is a framework that allows one to decompose any observation as a linear combination of a few parametrized atoms. Since their introduction in the early 2010s, they have become a ubiquitous tool for designing off-the-grid models. In this talk, we motivate their introduction by studying of the so-called 'LASSO on thin grids'. We then discuss some of the recent developments in the inference of such representations. Finally, we explore their potential in machine learning applications.
 </div>
   
 <div style="font-size:0.9em; color:#555; text-align:justify; margin-top:0.5em; padding:0;">
