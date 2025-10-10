@@ -7,7 +7,7 @@ title: Abstracts
 
   <div style="font-size:0.9em; color:#555; text-align:justify; margin-top:0.5em; padding:0;">
   <a href="https://webusers.i3s.unice.fr/~blancf/" target="_blank" style="color:#278BF5; font-weight:bold;">Laure Blanc-Féraud</a> (CNRS, I3S, Univ. Côte d’Azur, Sophia Antipolis France)    <br>
-  <strong style="color:black;font-size:0.92em;">Title:TBA</strong><br>
+  <strong style="color:black;font-size:0.92em;">Super-resolution in fluorescence microscopy by fluctations of molecules and curve modeling</strong><br>
   Abstract:TBA
 </div>
 
