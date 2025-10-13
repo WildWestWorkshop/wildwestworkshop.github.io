@@ -9,7 +9,7 @@ title: Abstracts
   <a href="https://webusers.i3s.unice.fr/~blancf/" target="_blank" style="color:#278BF5; font-weight:bold;">Laure Blanc-Féraud</a> (CNRS, I3S, Univ. Côte d’Azur, Sophia Antipolis France)<br>
   <details style="margin-top:0.2em;">
     <summary style="color:black;font-size:0.92em;font-weight:bold;cursor:pointer;">Super-resolution in fluorescence microscopy by fluctations of molecules and curve modeling</summary>
-    <div style="margin-top:0.4em;">Abstract:TBA</div>
+    <div style="margin-top:0.4em;">Fluorescence imaging has revolutionized microscopy and allows biologists to see the structures of living cells. However, its resolution is limited by light diffraction, an unavoidable physical phenomenon. Among the super-resolution techniques that circumvent this natural phenomenon, we will present the results we have obtained through molecular fluctuation imaging, combining a physical image acquisition model with an adversarial neural network model. Super-resolution techniques are inverse problems for which an a priori model of the data to be reconstructed is useful. We will then present how to model curves in images in order to reconstruct the biological filaments present in many biological studies.</div>
   </details>
 </div>
 
