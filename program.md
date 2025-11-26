@@ -209,9 +209,11 @@ Depending on the number of contributions received, we may organise a poster sess
 
   <tr><td>12:15 – 14:15</td>
     <td>
-      <div class="item poster">Lunch / Poster
-        <span class="title">Title</span>
-      </div>
+      <div>
+  <span style="color:#000; font-weight:bold;">Lunch with</span>
+  <br>
+  <span style="color:#800020; font-weight:bold;">Poster session</span>
+</div>
     </td>
   </tr>
 
