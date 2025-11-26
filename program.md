@@ -28,32 +28,43 @@ Depending on the number of contributions received, we may organise a poster sess
 <strong>Notification date</strong>: <span style="color: darkred;">January 5, 2026 </span>
 </div>
 
-<h2 style="color: #e65100;">Schedule</h2>
-Coming soon ...
+<h2 style="color: #e65100;">Schedule provisoire</h2>
 
-<!--  **Day 1**
-- 9h15 : 	**Welcome**
-- 9h45-9h55 : **Introduction of the workshop**
-- 10h00-10h40 : P1
-- 10h50-11h10 : C1
-- 11h15-11h55 :  P2
-- 12h05-12h25 : C2
-- 12h30	: **lunch break**
-- 14h00-14h40	: P3
-- 15h00-15h20	: C3
-- 15h25	: **coffee break**
-- 15h45-16h25 :	P4
-- 16h35-16h55 :	C4
-- 17h00-17h20 :	C5-->
-	
-<!--**Day 2**
-- 9h00-9h40 :	P5
-- 10h00-10h20 :	C6
-- 10h25 :	**coffee break**
-- 10h45-11h25 :	P6
-- 11h35-11h55 :	C7
-- 12h00-12h20 :	C8
-- 12h25	: **lunch break**
-- 14h00-14h40	: P8
-- 15h00-15h20	: C9
-- ... -->
+
+<h3>Day 1</h3>
+<table style="width:100%; border-collapse: collapse;">
+  <tr><td>08:30 – 09:00</td><td>Welcome</td></tr>
+  <tr><td>09:00 – 09:05</td><td>Opening</td></tr>
+  <tr><td>09:05 – 09:55</td><td>Plenary 1</td></tr>
+  <tr><td>09:55 – 10:20</td><td>Contribution 1</td></tr>
+  <tr><td>10:20 – 10:45</td><td>Contribution 2</td></tr>
+  <tr><td>10:45 – 11:05</td><td>Coffee Break</td></tr>
+  <tr><td>11:05 – 11:55</td><td>Plenary 2</td></tr>
+  <tr><td>11:55 – 12:20</td><td>Contribution 3</td></tr>
+  <tr><td>12:20 – 13:45</td><td>Lunch Break</td></tr>
+  <tr><td>13:45 – 14:35</td><td>Plenary 3</td></tr>
+  <tr><td>14:35 – 15:00</td><td>Contribution 4</td></tr>
+  <tr><td>15:00 – 15:25</td><td>Contribution 5</td></tr>
+  <tr><td>15:25 – 15:45</td><td>Coffee Break</td></tr>
+  <tr><td>15:45 – 16:35</td><td>Plenary 4</td></tr>
+  <tr><td>16:35 – 17:00</td><td>Contribution 6</td></tr>
+  <tr><td>17:00 – 17:25</td><td>Contribution 7</td></tr>
+</table>
+
+<h3>Day 2</h3>
+<table style="width:100%; border-collapse: collapse;">
+  <tr><td>08:30 – 09:00</td><td>Accueil</td></tr>
+  <tr><td>09:00 – 09:50</td><td>Plenary 5</td></tr>
+  <tr><td>09:50 – 10:15</td><td>Contribution 8</td></tr>
+  <tr><td>10:15 – 10:40</td><td>Contribution 9</td></tr>
+  <tr><td>10:40 – 11:00</td><td>Coffee Break</td></tr>
+  <tr><td>11:00 – 11:50</td><td>Plenary 6</td></tr>
+  <tr><td>11:50 – 12:15</td><td>Contribution 10</td></tr>
+  <tr><td>12:15 – 14:15</td><td>Lunch / Poster</td></tr>
+  <tr><td>14:15 – 15:05</td><td>Plenary 7</td></tr>
+  <tr><td>15:05 – 15:30</td><td>Contribution 11</td></tr>
+  <tr><td>15:30 – 15:55</td><td>Contribution 12</td></tr>
+  <tr><td>15:55 – 16:15</td><td>Coffee Break</td></tr>
+  <tr><td>16:15 – 17:05</td><td>Plenary 8</td></tr>
+  <tr><td>17:05 – 17:15</td><td>Closing</td></tr>
+</table>
