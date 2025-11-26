@@ -30,9 +30,33 @@ Depending on the number of contributions received, we may organise a poster sess
 
 <h2 style="color: #e65100;">Schedule provisoire</h2>
 
+<style>
+  table.schedule {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 2em;
+    font-size: 0.95em;
+  }
+  table.schedule tr:nth-child(even) {
+    background: #f7f7f7;
+  }
+  table.schedule td {
+    padding: 8px 10px;
+    border-bottom: 1px solid #ddd;
+  }
+  table.schedule td:first-child {
+    width: 130px;
+    font-weight: bold;
+    color: #444;
+    white-space: nowrap;
+  }
+  table.schedule h3 {
+    margin-top: 1.5em;
+  }
+</style>
 
 <h3>Day 1</h3>
-<table style="width:100%; border-collapse: collapse;">
+<table class="schedule">
   <tr><td>08:30 – 09:00</td><td>Welcome</td></tr>
   <tr><td>09:00 – 09:05</td><td>Opening</td></tr>
   <tr><td>09:05 – 09:55</td><td>Plenary 1</td></tr>
@@ -52,8 +76,8 @@ Depending on the number of contributions received, we may organise a poster sess
 </table>
 
 <h3>Day 2</h3>
-<table style="width:100%; border-collapse: collapse;">
-  <tr><td>08:30 – 09:00</td><td>Accueil</td></tr>
+<table class="schedule">
+  <tr><td>08:30 – 09:00</td><td>Welcome</td></tr>
   <tr><td>09:00 – 09:50</td><td>Plenary 5</td></tr>
   <tr><td>09:50 – 10:15</td><td>Contribution 8</td></tr>
   <tr><td>10:15 – 10:40</td><td>Contribution 9</td></tr>
