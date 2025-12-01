@@ -3,16 +3,6 @@ layout: page
 title: Program
 ---
 
-<h2 style="color: #e65100;">Plenary Speakers</h2>
-- [Laure Blanc-Féraud](https://webusers.i3s.unice.fr/~blancf/){:target="_blank"} (CNRS, I3S, Univ. Côte d’Azur, Sophia Antipolis France)  
-- [Émilie Chouzenoux](https://pages.saclay.inria.fr/emilie.chouzenoux/){:target="_blank"} (Inria, CentraleSupélec, Univ. Paris Saclay, France)  
-- [Clément Elvira](https://c-elvira.github.io){:target="_blank"} (IETR, CentraleSupélec, France)  
-- [Barbara Pascal](https://bpascal-fr.github.io){:target="_blank"} (CNRS, LS2N, France)  
-- [Andrew Reader](https://www.kcl.ac.uk/people/andrew-reader){:target="_blank"} (King’s College, London, United Kingdom) 
-- [Georg Schramm](https://gschramm.github.io){:target="_blank"} (KU Leuven, Belgium)  
-- [Julián Tachella](https://tachella.github.io){:target="_blank"} (CNRS, ENS Lyon, France)  
-- [Pierre Weiss](https://www.math.univ-toulouse.fr/~weiss/index.html){:target="_blank"} (CNRS, IRIT, France)  
-
 <h2 style="color: #e65100;">Call for contributions</h2>
 <div style="text-align:justify; margin:0.5em; padding:0;">
 We are pleased to launch a call for contributions. Those interested in presenting their work are invited to submit a title and an extended abstract (maximum 2 pages). There is no required format — it can be a two-page LaTeX document or a simple summary.
@@ -56,7 +46,7 @@ Depending on the number of contributions received, we may organise a poster sess
   .item { display: block; }
   .item .title { display: block; font-size: 0.9em; margin-top: 2px; }
 
-  .plenary { color: #ff9800; font-weight: bold; }
+  .plenary { color: #e65100; font-weight: bold; }
   .contribution { color: #1976d2; font-weight: bold; }
   .poster { color: #1976d2; font-weight: bold; }
 </style>
