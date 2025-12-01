@@ -15,7 +15,7 @@ url: "https://wildwestworkshop.github.io/" # the base hostname & protocol for yo
 navbar-links:
   About: "/"
   Program: "program"
-  Abstracts: "abstract"
+  Contributions: "abstract"
   Registration: "registration"
   Venue: "venue"
   Organizing Committee: "organizingcommittee"
