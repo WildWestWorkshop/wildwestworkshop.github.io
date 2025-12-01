@@ -11,6 +11,7 @@ title: Program
     border-collapse: collapse;
     margin-bottom: 2em;
     font-size: 0.95em;
+    font-weight:bold;
   }
   table.schedule tr:nth-child(even) {
     background: #f7f7f7;
@@ -186,7 +187,7 @@ title: Program
       <div>
   <span style="color:#000; font-weight:bold;">Lunch with</span>
   <br>
-  <span style="color:#800020; font-weight:bold;">Poster session</span>
+  <span style="color:#4a7c59; font-weight:bold;">Poster session</span>
 </div>
     </td>
   </tr>
