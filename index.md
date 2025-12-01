@@ -130,7 +130,7 @@ setInterval(showSlides, 6000);
 
 
 <div style="border:2px solid #e65100; border-radius:10px; padding:1em; margin:2em 0 0em 0; font-size:0.9em; color:#555; text-align:justify;">
-<h2 style="color: #e65100;margin-top:0.4em;">Plenary Speakers</h2>
+<h2 style="color: #e65100;margin-top:0.2em;">Plenary Speakers</h2>
 
 <div style="font-size:1em; color:#555; text-align:justify; margin-top:0.5em; padding:0;">
   <a href="https://webusers.i3s.unice.fr/~blancf/" target="_blank" style="color:#278BF5; font-weight:bold;">Laure Blanc-Féraud</a> (CNRS, I3S, Univ. Côte d’Azur, Sophia Antipolis France)<br>
