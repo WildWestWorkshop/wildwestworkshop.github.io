@@ -31,8 +31,8 @@ title: Program
   .item .title { display: block; font-size: 0.9em; margin-top: 2px; }
 
   .plenary { color: #e65100; font-weight: bold; }
-  .contribution { color: #1976d2; font-weight: bold; }
-  .poster { color: #1976d2; font-weight: bold; }
+  .contribution { color: #1e6091; font-weight: bold; }
+  .poster { color: #4a7c59; font-weight: bold; }
 </style>
 
 <h3>Day 1</h3>
