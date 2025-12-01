@@ -112,7 +112,7 @@ setInterval(showSlides, 6000);
 </p>
 -->
 <div style="border:2px solid #ad2831; border-radius:10px; padding:1em; margin:2em 0 2em 0; font-size:0.9em; color:#555; text-align:justify;">
-<strong>Submission deadline extended</strong>: <span style="color: darkred;"><s>December 1st, 2025</s> → <strong>December 15th, 2025</strong> </span><br>
+<strong>Submission deadline extended</strong>: <span style="color: darkred;"><s>December 1st, 2025</s> → <strong>December 8th, 2025</strong> </span><br>
 </div>
 
 ## Objectives of the workshop
