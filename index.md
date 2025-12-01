@@ -111,8 +111,9 @@ setInterval(showSlides, 6000);
 <img title="a title" alt="Rennes" src="/images/supelec1.jpg">
 </p>
 -->
-
-
+<div style="border:2px solid #ad2831; border-radius:10px; padding:1em; margin-bottom:2em; font-size:0.9em; color:#555; text-align:justify;">
+<strong>Submission deadline extended</strong>: <span style="color: darkred;"><s>December 1st, 2025</s> → <strong></strong>December 15th, 2025</span><br>
+</div>
 
 ## Objectives of the workshop
 - Bring together researchers working at the interface between artificial intelligence, inverse problems, and applied mathematics, with applications in translational research, imaging and data science.
