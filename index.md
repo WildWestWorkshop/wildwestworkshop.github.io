@@ -131,7 +131,7 @@ setInterval(showSlides, 6000);
 <div style="border:2px solid #e65100; border-radius:10px; padding:1em; margin-bottom:2em; font-size:0.9em; color:#555; text-align:justify;">
 <h2 style="color: #e65100;">Plenary Speakers</h2>
 
-<div style="font-size:0.9em; color:#555; text-align:justify; margin-top:0.5em; padding:0;">
+<div style="font-size:1em; color:#555; text-align:justify; margin-top:0.5em; padding:0;">
   <a href="https://webusers.i3s.unice.fr/~blancf/" target="_blank" style="color:#278BF5; font-weight:bold;">Laure Blanc-Féraud</a> (CNRS, I3S, Univ. Côte d’Azur, Sophia Antipolis France)<br>
   <details style="margin-top:0.2em;">
     <summary style="color:black;font-size:0.92em;font-weight:bold;cursor:pointer;">Super-resolution in fluorescence microscopy by fluctations of molecules and curve modeling</summary>
@@ -139,7 +139,7 @@ setInterval(showSlides, 6000);
   </details>
 </div>
 
-<div style="font-size:0.9em; color:#555; text-align:justify; margin-top:0.5em; padding:0;">
+<div style="font-size:1em; color:#555; text-align:justify; margin-top:0.5em; padding:0;">
   <a href="https://pages.saclay.inria.fr/emilie.chouzenoux/index.html" target="_blank" style="color:#278BF5; font-weight:bold;">Émilie Chouzenoux</a> (Inria, CentraleSupélec, Univ. Paris Saclay, France)<br>
   <details style="margin-top:0.2em;">
     <summary style="color:black;font-size:0.92em;font-weight:bold;cursor:pointer;">Unrolled Majorization-Minimization Approaches for Sparse Signal Reconstruction in Analytical Chemistry</summary>
@@ -151,7 +151,7 @@ setInterval(showSlides, 6000);
   </details>
 </div>
 
-<div style="font-size:0.9em; color:#555; text-align:justify; margin-top:0.5em; padding:0;">
+<div style="font-size:1em; color:#555; text-align:justify; margin-top:0.5em; padding:0;">
   <a href="https://c-elvira.github.io" target="_blank" style="color:#278BF5; font-weight:bold;">Clément Elvira</a> (IETR, CentraleSupélec, France)<br>
   <details style="margin-top:0.2em;">
     <summary style="color:black;font-size:0.92em;font-weight:bold;cursor:pointer;">Continuous dictionaries: an introduction and machine learning perspectives</summary>
@@ -161,7 +161,7 @@ setInterval(showSlides, 6000);
   </details>
 </div>
 
-<div style="font-size:0.9em; color:#555; text-align:justify; margin-top:0.5em; padding:0;">
+<div style="font-size:1em; color:#555; text-align:justify; margin-top:0.5em; padding:0;">
   <a href="https://bpascal-fr.github.io" target="_blank" style="color:#278BF5; font-weight:bold;">Barbara Pascal</a> (CNRS, LS2N, France)<br>
   <details style="margin-top:0.2em;">
     <summary style="color:black;font-size:0.92em;font-weight:bold;cursor:pointer;">Automated data-driven inverse problem resolution: Applications in microfluidics and epidemiology</summary>
@@ -171,7 +171,7 @@ setInterval(showSlides, 6000);
   </details>
 </div>
 
-<div style="font-size:0.9em; color:#555; text-align:justify; margin-top:0.5em; padding:0;">
+<div style="font-size:1em; color:#555; text-align:justify; margin-top:0.5em; padding:0;">
   <a href="https://www.kcl.ac.uk/people/andrew-reader" target="_blank" style="color:#278BF5; font-weight:bold;">Andrew Reader</a> (King’s College, London, United Kingdom)<br>
   <details style="margin-top:0.2em;">
     <summary style="color:black;font-size:0.92em;font-weight:bold;cursor:pointer;">Generative AI for medical image reconstruction in positron emission tomography (PET)</summary>
@@ -196,7 +196,7 @@ setInterval(showSlides, 6000);
   </details>
 </div>
 
-<div style="font-size:0.9em; color:#555; text-align:justify; margin-top:0.5em; padding:0;">
+<div style="font-size:1em; color:#555; text-align:justify; margin-top:0.5em; padding:0;">
   <a href="https://gschramm.github.io" target="_blank" style="color:#278BF5; font-weight:bold;">Georg Schramm</a> (KU Leuven, Belgium)<br>
   <details style="margin-top:0.2em;">
     <summary style="color:black;font-size:0.92em;font-weight:bold;cursor:pointer;">Opportunities and Challenges for Machine Learning in Positron Emission Tomography</summary>
@@ -206,7 +206,7 @@ setInterval(showSlides, 6000);
   </details>
 </div>
 
-<div style="font-size:0.9em; color:#555; text-align:justify; margin-top:0.5em; padding:0;">
+<div style="font-size:1em; color:#555; text-align:justify; margin-top:0.5em; padding:0;">
   <a href="https://tachella.github.io" target="_blank" style="color:#278BF5; font-weight:bold;">Julián Tachella</a> (CNRS, ENS Lyon, France)<br>
   <details style="margin-top:0.2em;">
     <summary style="color:black;font-size:0.92em;font-weight:bold;cursor:pointer;">Reconstruct Anything Model: a lightweight foundation model for computational imaging</summary>
@@ -216,7 +216,7 @@ setInterval(showSlides, 6000);
   </details>
 </div>
 
-<div style="font-size:0.9em; color:#555; text-align:justify; margin-top:0.5em; padding:0;">
+<div style="font-size:1em; color:#555; text-align:justify; margin-top:0.5em; padding:0;">
   <a href="https://www.math.univ-toulouse.fr/~weiss/index.html" target="_blank" style="color:#278BF5; font-weight:bold;">Pierre Weiss</a> (CNRS, IRIT, France)<br>
   <details style="margin-top:0.2em;">
     <summary style="color:black;font-size:0.92em;font-weight:bold;cursor:pointer;">Analytical solutions for CNN inverse problem solvers</summary>
