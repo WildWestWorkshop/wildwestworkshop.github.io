@@ -27,7 +27,7 @@ Please note that lunch will be provided for all participants. We encourage you t
 Even if you are a contributor, please remember to register as well.
 </div>
 <div style="text-align:justify;margin-top:0.5em;padding:0;">
-The deadline for registration (subject to availability) is <strong>January 8, 2026</strong>.
+The deadline for registration (subject to availability) is <span style="color: darkred;"><strong>January 8, 2026</strong></span>.
 </div>
 <div style="text-align:justify;margin-top:0.5em;padding:0;">
 To cancel your registration, please send an email to <a href="mailto:aiwildwest.workshop@gmail.com">aiwildwest.workshop@gmail.com</a>
