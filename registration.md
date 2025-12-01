@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Soumission & Registration
+title: Submission & Registration
 ---
 
 <h2 style="color: #e65100;">Call for contributions</h2>
