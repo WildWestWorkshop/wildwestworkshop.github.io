@@ -217,7 +217,7 @@ setInterval(showSlides, 6000);
   </details>
 </div>
 
-<div style="font-size:1em; color:#555; text-align:justify; margin-top:0.5em; padding:0;">
+<div style="font-size:1em; color:#555; text-align:justify; margin-top:0.4em; padding:0;">
   <a href="https://www.math.univ-toulouse.fr/~weiss/index.html" target="_blank" style="color:#278BF5; font-weight:bold;">Pierre Weiss</a> (CNRS, IRIT, France)<br>
   <details style="margin-top:0.2em;">
     <summary style="color:black;font-size:0.92em;font-weight:bold;cursor:pointer;">Analytical solutions for CNN inverse problem solvers</summary>
