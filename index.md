@@ -111,7 +111,7 @@ setInterval(showSlides, 6000);
 <img title="a title" alt="Rennes" src="/images/supelec1.jpg">
 </p>
 -->
-<div style="border:2px solid #ad2831; border-radius:10px; padding:1em; margin-bottom:2em; font-size:0.9em; color:#555; text-align:justify;">
+<div style="border:2px solid #ad2831; border-radius:10px; padding:1em; margin:2em 0 2em 0; font-size:0.9em; color:#555; text-align:justify;">
 <strong>Submission deadline extended</strong>: <span style="color: darkred;"><s>December 1st, 2025</s> → <strong>December 15th, 2025</strong> </span><br>
 </div>
 
@@ -129,7 +129,7 @@ setInterval(showSlides, 6000);
 - Signal processing
 
 
-<div style="border:2px solid #e65100; border-radius:10px; padding:1em; margin:2em 0 2em 0; font-size:0.9em; color:#555; text-align:justify;">
+<div style="border:2px solid #e65100; border-radius:10px; padding:1em; margin-bottom:2em; font-size:0.9em; color:#555; text-align:justify;">
 <h2 style="color: #e65100;">Plenary Speakers</h2>
 
 <div style="font-size:1em; color:#555; text-align:justify; margin-top:0.5em; padding:0;">
