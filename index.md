@@ -128,7 +128,7 @@ setInterval(showSlides, 6000);
 - Signal processing
 
 
-<div style="border:1px solid #e65100; border-radius:10px; padding:1em; margin-bottom:2em; font-size:0.9em; color:#555; text-align:justify;">
+<div style="border:2px solid #e65100; border-radius:10px; padding:1em; margin-bottom:2em; font-size:0.9em; color:#555; text-align:justify;">
 <h2 style="color: #e65100;">Plenary Speakers</h2>
 
 <div style="font-size:0.9em; color:#555; text-align:justify; margin-top:0.5em; padding:0;">
