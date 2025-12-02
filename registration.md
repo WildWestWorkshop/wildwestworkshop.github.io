@@ -31,7 +31,7 @@ The deadline for registration (subject to availability) is <span style="color: d
 </div>
 <div style="text-align:justify;margin-top:0.5em;padding:0;">
 To cancel your registration, please send an email to <a href="mailto:aiwildwest.workshop@gmail.com">aiwildwest.workshop@gmail.com</a>
-with your full name and the subject line "Workshop Cancellation".
+with your full name and the subject line "Registration Cancellation".
 </div>
 
 
