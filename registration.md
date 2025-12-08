@@ -3,8 +3,8 @@ layout: page
 title: Submission Registration
 ---
 
-<h2 style="color: #ad2831;">Call for contributions</h2>
-<div style="text-align:justify; margin:0.5em; padding:0;">
+<h2 style="color: #ad2831;">Call for contributions -  Closed</h2>
+<!--<div style="text-align:justify; margin:0.5em; padding:0;">
 We are pleased to launch a call for contributions. Those interested in presenting their work are invited to submit a title and an extended abstract (maximum 2 pages). There is no required format — it can be a two-page LaTeX document or a simple summary.
 </div>
  <div style="text-align:justify; margin:0.5em; padding:0;">
@@ -12,7 +12,7 @@ If you wish to contribute to the workshop, please send an email with the subject
 </div>
 <div style="text-align:justify; margin:0.5em; padding:0;">
 Depending on the number of contributions received, we may organise a poster session during the lunch break.
-</div>
+</div>-->
 <div style="text-align:justify; margin:0.5em; padding:0;">
 <strong>Submission deadline</strong>: <span style="color: darkred;"><s>December 1st, 2025</s> → <strong> December 8th, 2025</strong> </span><br>
 <strong>Notification date</strong>: <span style="color: darkred;">January 5, 2026 </span>
