@@ -29,7 +29,13 @@ title: Program
   }
 
   .item { display: block; }
-  .item .title { display: block; font-size: 0.9em; margin-top: 2px; }
+  .item .title {
+  display: block;
+  font-size: 0.85em;   
+  margin-top: 2px;
+  font-weight: normal;
+  color: #444;         
+  }
 
   .plenary { color: #e65100; font-weight: bold; }
   .contribution { color: #1e6091; font-weight: bold; }
@@ -44,7 +50,7 @@ title: Program
   <tr><td>09:05 – 09:55</td>
     <td>
       <div class="item plenary">Laure Blanc-Féraud
-        <span style="font-size: 0.9em; margin-top: 2px;">Super-resolution in fluorescence microscopy by fluctations of molecules and curve modeling</span>
+        <span class="title">Super-resolution in fluorescence microscopy by fluctations of molecules and curve modeling</span>
       </div>
     </td>
   </tr>
