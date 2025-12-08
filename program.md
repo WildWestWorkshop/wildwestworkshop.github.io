@@ -43,8 +43,8 @@ title: Program
 
   <tr><td>09:05 – 09:55</td>
     <td>
-      <div class="item plenary">Plenary 1
-        <span class="title">Title</span>
+      <div class="item plenary">Laure Blanc-Féraud
+        <span class="title">Super-resolution in fluorescence microscopy by fluctations of molecules and curve modeling</span>
       </div>
     </td>
   </tr>
@@ -69,8 +69,8 @@ title: Program
 
   <tr><td>11:05 – 11:55</td>
     <td>
-      <div class="item plenary">Plenary 2
-        <span class="title">Title</span>
+      <div class="item plenary">Clément Elvira
+        <span class="title">Continuous dictionaries: an introduction and machine learning perspectives</span>
       </div>
     </td>
   </tr>
@@ -87,8 +87,8 @@ title: Program
 
   <tr><td>13:45 – 14:35</td>
     <td>
-      <div class="item plenary">Plenary 3
-        <span class="title">Title</span>
+      <div class="item plenary">Émilie Chouzenoux
+        <span class="title">Unrolled Majorization-Minimization Approaches for Sparse Signal Reconstruction in Analytical Chemistry</span>
       </div>
     </td>
   </tr>
@@ -113,8 +113,8 @@ title: Program
 
   <tr><td>15:45 – 16:35</td>
     <td>
-      <div class="item plenary">Plenary 4
-        <span class="title">Title</span>
+      <div class="item plenary">Georg Schramm
+        <span class="title">Opportunities and Challenges for Machine Learning in Positron Emission Tomography</span>
       </div>
     </td>
   </tr>
@@ -142,8 +142,8 @@ title: Program
 
   <tr><td>09:00 – 09:50</td>
     <td>
-      <div class="item plenary">Plenary 5
-        <span class="title">Title</span>
+      <div class="item plenary">Pierre Weiss 
+        <span class="title">Analytical solutions for CNN inverse problem solvers</span>
       </div>
     </td>
   </tr>
@@ -168,8 +168,8 @@ title: Program
 
   <tr><td>11:00 – 11:50</td>
     <td>
-      <div class="item plenary">Plenary 6
-        <span class="title">Title</span>
+      <div class="item plenary">Barbara Pascal
+        <span class="title">Automated data-driven inverse problem resolution: Applications in microfluidics and epidemiology</span>
       </div>
     </td>
   </tr>
@@ -194,8 +194,8 @@ title: Program
 
   <tr><td>14:15 – 15:05</td>
     <td>
-      <div class="item plenary">Plenary 7
-        <span class="title">Title</span>
+      <div class="item plenary">Julián Tachella
+        <span class="title">Reconstruct Anything Model: a lightweight foundation model for computational imaging</span>
       </div>
     </td>
   </tr>
@@ -220,8 +220,8 @@ title: Program
 
   <tr><td>16:15 – 17:05</td>
     <td>
-      <div class="item plenary">Plenary 8
-        <span class="title">Title</span>
+      <div class="item plenary">Andrew Reader
+        <span class="title">Generative AI for medical image reconstruction in positron emission tomography (PET)</span>
       </div>
     </td>
   </tr>
