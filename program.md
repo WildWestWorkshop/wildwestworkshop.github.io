@@ -4,7 +4,6 @@ title: Program
 ---
 <h2 style="color: #ad2831;">Schedule provisoire</h2>
 
-
 <style>
   table.schedule {
     width: 100%;
@@ -28,19 +27,39 @@ title: Program
     white-space: nowrap;
   }
 
-  .item { display: block; }
-  .item .title {
-  display: block;
-  font-size: 0.85em;   
-  margin-top: 2px;
-  font-weight: normal;
-  color: #444;         
+  .item { 
+    display: block; 
+    padding: 6px 8px;
+    border-radius: 6px;
   }
 
-  .plenary { color: #e65100; font-weight: bold; }
-  .contribution { color: #1e6091; font-weight: bold; }
-  .poster { color: #4a7c59; font-weight: bold; }
+  /* Fonds légers */
+  .plenary {
+    background: rgba(230, 81, 0, 0.15);      /* orange très léger */
+    color: #000 !important;                 /* texte normal */
+  }
+
+  .contribution {
+    background: rgba(30, 96, 145, 0.15);    /* bleu très léger */
+    color: #000 !important;
+  }
+
+  .poster {
+    background: rgba(74, 124, 89, 0.15);    /* vert très léger */
+    color: #000 !important;
+  }
+
+  /* Sous-titre */
+  .item .title {
+    display: block;
+    font-size: 0.85em;   
+    margin-top: 2px;
+    font-weight: normal;
+    color: #444;         
+  }
 </style>
+
+
 
 <h3>Day 1</h3>
 <table class="schedule">
