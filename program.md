@@ -12,14 +12,13 @@ title: Program
     font-size: 0.95em;
     font-weight:bold;
   }
-  table.schedule tr:nth-child(even) {
-    background: #f7f7f7;
-  }
+
   table.schedule td {
     padding: 8px 10px;
     border-bottom: 1px solid #ddd;
     vertical-align: top;
   }
+
   table.schedule td:first-child {
     width: 130px;
     font-weight: bold;
@@ -27,64 +26,61 @@ title: Program
     white-space: nowrap;
   }
 
-  .item { 
-    display: block; 
-    padding: 6px 8px;
-    border-radius: 6px;
+  .item {
+    display: block;
   }
 
-  /* Fonds légers */
-  .plenary {
-    background: rgba(230, 81, 0, 0.15);      /* orange très léger */
-    color: #000 !important;                 /* texte normal */
-  }
-
-  .contribution {
-    background: rgba(30, 96, 145, 0.15);    /* bleu très léger */
-    color: #000 !important;
-  }
-
-  .poster {
-    background: rgba(74, 124, 89, 0.15);    /* vert très léger */
-    color: #000 !important;
-  }
-
-  /* Sous-titre */
   .item .title {
     display: block;
-    font-size: 0.85em;   
+    font-size: 0.85em;
     margin-top: 2px;
     font-weight: normal;
-    color: #444;         
+    color: #444;
+  }
+
+  /* COULEURS PAR TYPE */
+  tr.plenary {
+    background: rgba(230, 81, 0, 0.15);   /* orange léger */
+  }
+
+  tr.contribution {
+    background: rgba(30, 96, 145, 0.15);  /* bleu léger */
+  }
+
+  tr.poster {
+    background: rgba(74, 124, 89, 0.15);  /* vert léger */
+  }
+
+  /* Lignes normales alternées */
+  tr:nth-child(even):not(.plenary):not(.contribution):not(.poster) {
+    background: #f7f7f7;
   }
 </style>
-
-
 
 <h3>Day 1</h3>
 <table class="schedule">
   <tr><td>08:30 – 09:00</td><td>Welcome</td></tr>
   <tr><td>09:00 – 09:05</td><td>Opening</td></tr>
 
-  <tr><td>09:05 – 09:55</td>
+  <tr class="plenary"><td>09:05 – 09:55</td>
     <td>
-      <div class="item plenary">Laure Blanc-Féraud
+      <div class="item">Laure Blanc-Féraud
         <span class="title">Super-resolution in fluorescence microscopy by fluctations of molecules and curve modeling</span>
       </div>
     </td>
   </tr>
 
-  <tr><td>09:55 – 10:20</td>
+  <tr class="contribution"><td>09:55 – 10:20</td>
     <td>
-      <div class="item contribution">Contribution 1
+      <div class="item">Contribution 1
         <span class="title">Title</span>
       </div>
     </td>
   </tr>
 
-  <tr><td>10:20 – 10:45</td>
+  <tr class="contribution"><td>10:20 – 10:45</td>
     <td>
-      <div class="item contribution">Contribution 2
+      <div class="item">Contribution 2
         <span class="title">Title</span>
       </div>
     </td>
@@ -92,17 +88,17 @@ title: Program
 
   <tr><td>10:45 – 11:05</td><td>Coffee Break</td></tr>
 
-  <tr><td>11:05 – 11:55</td>
+  <tr class="plenary"><td>11:05 – 11:55</td>
     <td>
-      <div class="item plenary">Clément Elvira
+      <div class="item">Clément Elvira
         <span class="title">Continuous dictionaries: an introduction and machine learning perspectives</span>
       </div>
     </td>
   </tr>
 
-  <tr><td>11:55 – 12:20</td>
+  <tr class="contribution"><td>11:55 – 12:20</td>
     <td>
-      <div class="item contribution">Contribution 3
+      <div class="item">Contribution 3
         <span class="title">Title</span>
       </div>
     </td>
@@ -110,25 +106,25 @@ title: Program
 
   <tr><td>12:20 – 13:45</td><td>Lunch Break</td></tr>
 
-  <tr><td>13:45 – 14:35</td>
+  <tr class="plenary"><td>13:45 – 14:35</td>
     <td>
-      <div class="item plenary">Émilie Chouzenoux
+      <div class="item">Émilie Chouzenoux
         <span class="title">Unrolled Majorization-Minimization Approaches for Sparse Signal Reconstruction in Analytical Chemistry</span>
       </div>
     </td>
   </tr>
 
-  <tr><td>14:35 – 15:00</td>
+  <tr class="contribution"><td>14:35 – 15:00</td>
     <td>
-      <div class="item contribution">Contribution 4
+      <div class="item">Contribution 4
         <span class="title">Title</span>
       </div>
     </td>
   </tr>
 
-  <tr><td>15:00 – 15:25</td>
+  <tr class="contribution"><td>15:00 – 15:25</td>
     <td>
-      <div class="item contribution">Contribution 5
+      <div class="item">Contribution 5
         <span class="title">Title</span>
       </div>
     </td>
@@ -136,25 +132,25 @@ title: Program
 
   <tr><td>15:25 – 15:45</td><td>Coffee Break</td></tr>
 
-  <tr><td>15:45 – 16:35</td>
+  <tr class="plenary"><td>15:45 – 16:35</td>
     <td>
-      <div class="item plenary">Georg Schramm
+      <div class="item">Georg Schramm
         <span class="title">Opportunities and Challenges for Machine Learning in Positron Emission Tomography</span>
       </div>
     </td>
   </tr>
 
-  <tr><td>16:35 – 17:00</td>
+  <tr class="contribution"><td>16:35 – 17:00</td>
     <td>
-      <div class="item contribution">Contribution 6
+      <div class="item">Contribution 6
         <span class="title">Title</span>
       </div>
     </td>
   </tr>
 
-  <tr><td>17:00 – 17:25</td>
+  <tr class="contribution"><td>17:00 – 17:25</td>
     <td>
-      <div class="item contribution">Contribution 7
+      <div class="item">Contribution 7
         <span class="title">Title</span>
       </div>
     </td>
@@ -165,25 +161,25 @@ title: Program
 <table class="schedule">
   <tr><td>08:30 – 09:00</td><td>Welcome</td></tr>
 
-  <tr><td>09:00 – 09:50</td>
+  <tr class="plenary"><td>09:00 – 09:50</td>
     <td>
-      <div class="item plenary">Pierre Weiss 
+      <div class="item">Pierre Weiss
         <span class="title">Analytical solutions for CNN inverse problem solvers</span>
       </div>
     </td>
   </tr>
 
-  <tr><td>09:50 – 10:15</td>
+  <tr class="contribution"><td>09:50 – 10:15</td>
     <td>
-      <div class="item contribution">Contribution 8
+      <div class="item">Contribution 8
         <span class="title">Title</span>
       </div>
     </td>
   </tr>
 
-  <tr><td>10:15 – 10:40</td>
+  <tr class="contribution"><td>10:15 – 10:40</td>
     <td>
-      <div class="item contribution">Contribution 9
+      <div class="item">Contribution 9
         <span class="title">Title</span>
       </div>
     </td>
@@ -191,66 +187,66 @@ title: Program
 
   <tr><td>10:40 – 11:00</td><td>Coffee Break</td></tr>
 
-  <tr><td>11:00 – 11:50</td>
+  <tr class="plenary"><td>11:00 – 11:50</td>
     <td>
-      <div class="item plenary">Barbara Pascal
+      <div class="item">Barbara Pascal
         <span class="title">Automated data-driven inverse problem resolution: Applications in microfluidics and epidemiology</span>
       </div>
     </td>
   </tr>
 
-  <tr><td>11:50 – 12:15</td>
+  <tr class="contribution"><td>11:50 – 12:15</td>
     <td>
-      <div class="item contribution">Contribution 10
+      <div class="item">Contribution 10
         <span class="title">Title</span>
       </div>
     </td>
   </tr>
 
-  <tr><td>12:15 – 14:15</td>
+  <tr class="poster"><td>12:15 – 14:15</td>
     <td>
       <div>
-  <span style="color:#000; font-weight:bold;">Lunch with</span>
-  <br>
-  <span style="color:#4a7c59; font-weight:bold;">Poster session</span>
-</div>
+        <span style="font-weight:bold;">Lunch with</span><br>
+        <span style="font-weight:bold;">Poster session</span>
+      </div>
     </td>
   </tr>
 
-  <tr><td>14:15 – 15:05</td>
+  <tr class="plenary"><td>14:15 – 15:05</td>
     <td>
-      <div class="item plenary">Julián Tachella
+      <div class="item">Julián Tachella
         <span class="title">Reconstruct Anything Model: a lightweight foundation model for computational imaging</span>
       </div>
     </td>
   </tr>
 
-  <tr><td>15:05 – 15:30</td>
+  <tr class="contribution"><td>15:05 – 15:30</td>
     <td>
-      <div class="item contribution">Contribution 11
+      <div class="item">Contribution 11
         <span class="title">Title</span>
       </div>
     </td>
   </tr>
 
-  <tr><td>15:30 – 15:55</td>
+  <tr class="contribution"><td>15:30 – 15:55</td>
     <td>
-      <div class="item contribution">Contribution 12
+      <div class="item">Contribution 12
         <span class="title">Title</span>
       </div>
     </td>
   </tr>
 
-<tr><td>15:55 – 16:15</td><td>Coffee Break</td></tr>
+  <tr><td>15:55 – 16:15</td><td>Coffee Break</td></tr>
 
-  <tr><td>16:15 – 17:05</td>
+  <tr class="plenary"><td>16:15 – 17:05</td>
     <td>
-      <div class="item plenary">Andrew Reader
+      <div class="item">Andrew Reader
         <span class="title">Generative AI for medical image reconstruction in positron emission tomography (PET)</span>
       </div>
     </td>
   </tr>
 
   <tr><td>17:05 – 17:15</td><td>Closing</td></tr>
-  </table>
+</table>
+
 
