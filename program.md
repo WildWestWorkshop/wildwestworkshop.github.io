@@ -51,16 +51,21 @@ title: Program
     background: rgba(74, 124, 89, 0.15) !important;  /* vert léger */
   }
 
-  /* Lignes normales alternées */
-  tr:nth-child(even):not(.plenary):not(.contribution):not(.poster) {
-    background: #f7f7f7;
-  }
+/* Opening / Closing = gris clair */
+tr.opening, tr.closing {
+  background: #f1f1f1 !important;
+}
+
+/* Tout le reste = blanc */
+tr:not(.plenary):not(.contribution):not(.poster):not(.opening):not(.closing) {
+  background: #fff !important;
+}
 </style>
 
 <h3>Day 1</h3>
 <table class="schedule">
   <tr><td>08:30 – 09:00</td><td>Welcome</td></tr>
-  <tr><td>09:00 – 09:05</td><td>Opening</td></tr>
+  <tr class="opening"><td>09:00 – 09:05</td><td>Opening</td></tr>
 
   <tr class="plenary"><td>09:05 – 09:55</td>
     <td>
@@ -246,7 +251,7 @@ title: Program
     </td>
   </tr>
 
-  <tr><td>17:05 – 17:15</td><td>Closing</td></tr>
+  <tr class="closing"><td>17:05 – 17:15</td><td>Closing</td></tr>
 </table>
 
 
