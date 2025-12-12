@@ -40,7 +40,7 @@ title: Program
 
   /* COULEURS PAR TYPE */
   tr.plenary {
-    background: rgba(242, 137, 29, 0.15) !important;   /* orange léger */
+    background: rgba(230, 81, 0, 0.15) !important;   /* orange léger */
   }
 
   tr.contribution {
