@@ -40,15 +40,15 @@ title: Program
 
   /* COULEURS PAR TYPE */
   tr.plenary {
-    background: rgba(230, 81, 0, 0.15);   /* orange léger */
+    background: rgba(230, 81, 0, 0.15) !important;   /* orange léger */
   }
 
   tr.contribution {
-    background: rgba(30, 96, 145, 0.15);  /* bleu léger */
+    background: rgba(30, 96, 145, 0.15) !important;  /* bleu léger */
   }
 
   tr.poster {
-    background: rgba(74, 124, 89, 0.15);  /* vert léger */
+    background: rgba(74, 124, 89, 0.15) !important;  /* vert léger */
   }
 
   /* Lignes normales alternées */
