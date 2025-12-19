@@ -31,6 +31,7 @@ If you are not a contributor, you may still register for the waiting list via <a
 </div>
 <div style="text-align:justify;margin-top:0.5em;padding:0;">
 We kindly ask participants who have already registered but will not be able to attend to inform us as soon as possible, so that their place can be reallocated to other participants.
+To cancel your registration, please send an email to <a href="mailto:aiwildwest.workshop@gmail.com">aiwildwest.workshop@gmail.com</a> with your full name and the subject line “Registration Cancellation”.
 </div>
 
 
