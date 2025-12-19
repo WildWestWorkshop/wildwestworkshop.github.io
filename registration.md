@@ -24,7 +24,7 @@ Registration is now closed, as the maximum number of participants has been reach
 </div>
 <div style="text-align:justify;margin-top:0.5em;padding:0;">
 Contributors (authors and co-authors) may still register using a dedicated registration form, which has been sent to them by email.
-If some co-authors have not received the link (e.g. when only the corresponding author’s email was provided at submission), they are invited to contact the organizers to obtain the registration details.
+If some co-authors have not received the link (e.g. when only the corresponding author’s email was provided at submission), they are invited to contact the organizers <a href="mailto:aiwildwest.workshop@gmail.com">aiwildwest.workshop@gmail.com</a> to obtain the registration details.
 </div>
 <div style="text-align:justify;margin-top:0.5em;padding:0;">
 If you are not a contributor, you may still register for the waiting list via <a href="https://docs.google.com/forms/d/e/1FAIpQLSfpAYZ7iGzWfG2MeWgkJJhfjDsd-WdIbevg4AO5GRdRoP6m5g/viewform?usp=dialog">this form</a>
