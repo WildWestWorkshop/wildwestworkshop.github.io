@@ -15,7 +15,7 @@ Depending on the number of contributions received, we may organise a poster sess
 </div>-->
 <div style="text-align:justify; margin:0.5em; padding:0;">
 <strong>Submission deadline</strong>: <span style="color: darkred;"><s>December 1st, 2025</s> → <strong> December 8th, 2025</strong> </span><br>
-<strong>Acceptance notification</strong>: <span style="color: darkred;"> In progress </span>
+<strong>Acceptance notification</strong>: <span style="color: darkred;"> December 19, 2025 </span>
 </div>
 
 <h2 style="color: #ad2831;">Registration</h2>
