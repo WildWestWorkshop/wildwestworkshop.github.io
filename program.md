@@ -28,13 +28,14 @@ title: Program
 
   .item {
     display: block;
+    font-style: italic;
   }
 
   .item .title {
     display: block;
     font-size: 0.85em;
     margin-top: 2px;
-    font-weight: normal;
+    font-weight: bold;
     color: #444;
   }
 
