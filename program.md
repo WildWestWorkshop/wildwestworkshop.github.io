@@ -26,19 +26,21 @@ title: Program
     white-space: nowrap;
   }
 
-  .item {
-    display: block;
-    font-style: italic;
-    font-weight: normal;
-  }
+.item {
+  display: block;
+  font-style: italic;      /* le nom de la personne sera en italique */
+  font-weight: normal;
+  font-size: 0.85em;       /* plus petit que le titre */
+}
 
-  .item .title {
-    display: block;
-    font-size: 0.85em;
-    margin-top: 2px;
-    font-weight: bold;
-    color: #444;
-  }
+.item .title {
+  display: block;
+  font-size: 1em;          /* taille normale, comme celle du nom initial */
+  margin-top: 2px;
+  font-weight: bold;       /* gras pour le titre */
+  font-style: normal;      /* titre non italique */
+  color: #444;
+}
 
   /* COULEURS PAR TYPE */
   tr.plenary {
