@@ -69,8 +69,9 @@ tr:not(.plenary):not(.contribution):not(.poster):not(.opening):not(.closing) {
 
   <tr class="plenary"><td>09:05 – 09:55</td>
     <td>
-      <div class="item">Laure Blanc-Féraud
+      <div class="item">
         <span class="title">Super-resolution in fluorescence microscopy by fluctations of molecules and curve modeling</span>
+        Laure Blanc-Féraud
       </div>
     </td>
   </tr>
@@ -95,16 +96,18 @@ tr:not(.plenary):not(.contribution):not(.poster):not(.opening):not(.closing) {
 
   <tr class="plenary"><td>11:05 – 11:55</td>
     <td>
-      <div class="item">Clément Elvira
+      <div class="item">
         <span class="title">Continuous dictionaries: an introduction and machine learning perspectives</span>
+        Clément Elvira
       </div>
     </td>
   </tr>
 
   <tr class="contribution"><td>11:55 – 12:20</td>
     <td>
-      <div class="item">Contribution 3
-        <span class="title">Title</span>
+      <div class="item">
+        <span class="title">Kirchhoff forests for Graph Linear Algebra</span>
+        Simon Barthelmé
       </div>
     </td>
   </tr>
@@ -113,16 +116,19 @@ tr:not(.plenary):not(.contribution):not(.poster):not(.opening):not(.closing) {
 
   <tr class="plenary"><td>13:45 – 14:35</td>
     <td>
-      <div class="item">Émilie Chouzenoux
+      <div class="item">
         <span class="title">Unrolled Majorization-Minimization Approaches for Sparse Signal Reconstruction in Analytical Chemistry</span>
+        Émilie Chouzenoux
       </div>
     </td>
   </tr>
 
   <tr class="contribution"><td>14:35 – 15:00</td>
     <td>
-      <div class="item">Contribution 4
-        <span class="title">Title</span>
+      <div class="item">
+        <span class="title">LATINO-PRO: LAtent consisTency INverse sOlver with
+PRompt Optimization</span>
+        Alessio Spagnoletti
       </div>
     </td>
   </tr>
@@ -139,24 +145,28 @@ tr:not(.plenary):not(.contribution):not(.poster):not(.opening):not(.closing) {
 
   <tr class="plenary"><td>15:45 – 16:35</td>
     <td>
-      <div class="item">Georg Schramm
+      <div class="item">
         <span class="title">Opportunities and Challenges for Machine Learning in Positron Emission Tomography</span>
+        Georg Schramm
       </div>
     </td>
   </tr>
 
   <tr class="contribution"><td>16:35 – 17:00</td>
     <td>
-      <div class="item">Contribution 6
-        <span class="title">Title</span>
+      <div class="item">
+        <span class="title">Manifold-Aware Langevin Purification for
+Flow-based Medical Inverse Problem Solvers</span>
+        Antoine De Paepe
       </div>
     </td>
   </tr>
 
   <tr class="contribution"><td>17:00 – 17:25</td>
     <td>
-      <div class="item">Contribution 7
-        <span class="title">Title</span>
+      <div class="item">
+        <span class="title">Deep-learning based Plug-And-Play methods for CT reconstruction</span>
+        Idris Tatachak
       </div>
     </td>
   </tr>
@@ -168,8 +178,9 @@ tr:not(.plenary):not(.contribution):not(.poster):not(.opening):not(.closing) {
 
   <tr class="plenary"><td>09:00 – 09:50</td>
     <td>
-      <div class="item">Pierre Weiss
+      <div class="item">
         <span class="title">Analytical solutions for CNN inverse problem solvers</span>
+        Pierre Weiss
       </div>
     </td>
   </tr>
@@ -194,8 +205,9 @@ tr:not(.plenary):not(.contribution):not(.poster):not(.opening):not(.closing) {
 
   <tr class="plenary"><td>11:00 – 11:50</td>
     <td>
-      <div class="item">Barbara Pascal
+      <div class="item">
         <span class="title">Automated data-driven inverse problem resolution: Applications in microfluidics and epidemiology</span>
+        Barbara Pascal
       </div>
     </td>
   </tr>
@@ -219,8 +231,9 @@ tr:not(.plenary):not(.contribution):not(.poster):not(.opening):not(.closing) {
 
   <tr class="plenary"><td>14:15 – 15:05</td>
     <td>
-      <div class="item">Julián Tachella
+      <div class="item">
         <span class="title">Reconstruct Anything Model: a lightweight foundation model for computational imaging</span>
+        Julián Tachella
       </div>
     </td>
   </tr>
@@ -245,8 +258,9 @@ tr:not(.plenary):not(.contribution):not(.poster):not(.opening):not(.closing) {
 
   <tr class="plenary"><td>16:15 – 17:05</td>
     <td>
-      <div class="item">Andrew Reader
+      <div class="item">
         <span class="title">Generative AI for medical image reconstruction in positron emission tomography (PET)</span>
+        Andrew Reader
       </div>
     </td>
   </tr>
