@@ -29,6 +29,7 @@ title: Program
   .item {
     display: block;
     font-style: italic;
+    font-weight: normal;
   }
 
   .item .title {
