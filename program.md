@@ -79,8 +79,9 @@ tr:not(.plenary):not(.contribution):not(.poster):not(.opening):not(.closing) {
 
   <tr class="contribution"><td>09:55 – 10:20</td>
     <td>
-      <div class="item">Contribution 1
-        <span class="title">Title</span>
+      <div class="item">
+        <span class="title">Unsupervised Residual Plug-and-Play for Image Super-Resolution with Adaptation to Ultrasound</span>
+      Xuan-Hieu Le
       </div>
     </td>
   </tr>
