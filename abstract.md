@@ -16,7 +16,7 @@ title: Contributions
 
 .title {
   font-weight: bold;
-  font-size: 0.9em;
+  font-size: 0.85em;
 }
 
 .authors {
@@ -25,6 +25,7 @@ title: Contributions
 }
 
 .poster-id {
+  font-size: 0.85em;
   font-weight: bold;
   color: #333;
 }
