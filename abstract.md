@@ -129,7 +129,7 @@ title: Contributions
 <h2 style="color: #4a7c59;">Poster – Day 2 (12:15–14:15)</h2>
 <ul class="poster-list">
   <li>
-    <span class="poster-id">C006</span> :
+    <span class="poster-id">[C006]</span> 
     <span class="title">Better to denoise a weak noise, the power of conservative diffusion models</span><br>
     <span class="authors">
       R. Gruhlke, D. Heitz, E. Mémin, <u>Valentin Resseguier</u>, M. Talla
@@ -137,7 +137,7 @@ title: Contributions
   </li>
 
   <li>
-    <span class="poster-id">C019</span> :
+    <span class="poster-id">[C019]</span> 
     <span class="title">SPECT with a Compton camera: image reconstruction challenges and deep learning perspectives</span><br>
     <span class="authors">
       <u>Léo Milliat</u>, T. Modrzyk, E. Testa, V. Maxim
@@ -145,7 +145,7 @@ title: Contributions
   </li>
 
   <li>
-    <span class="poster-id">C034</span> :
+    <span class="poster-id">[C034]</span> 
     <span class="title">3D CT-free PET Reconstruction using Diffusion Models</span><br>
     <span class="authors">
       <u>Clémentine Phung-Ngoc</u>, A. Bousse, A. De Paepe, T. Merlin, B. Laurent, H.-P. Dang, O. Saut, D. Visvikis
