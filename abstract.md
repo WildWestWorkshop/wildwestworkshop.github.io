@@ -44,7 +44,7 @@ title: Contributions
   <li>
     <span class="title">Self-supervised regularized deep-learning for reconstruction in digital in-line holographic microscopy</span><br>
     <span class="authors">
-      Félix Riedel, D. Brault, C. Fournier, T. Olivier, L. Denis
+      <u>Félix Riedel</u>, D. Brault, C. Fournier, T. Olivier, L. Denis
     </span>
   </li>
   
@@ -136,6 +136,14 @@ title: Contributions
     </span>
   </li>
 
+  <li>
+    <span class="poster-id">[C017]</span> 
+    <span class="title">Bi-Level Optimization with Learned Preconditioning: Application to EEG Source Imaging</span><br>
+    <span class="authors">
+      <u>Le Minh Triet Tran</u>, S. Reynaud, M. Q. Pham, R. Fablet, A. Merlini, F. Rousseau
+    </span>
+  </li>
+  
   <li>
     <span class="poster-id">[C019]</span> 
     <span class="title">SPECT with a Compton camera: image reconstruction challenges and deep learning perspectives</span><br>
