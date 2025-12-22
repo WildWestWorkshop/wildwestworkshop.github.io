@@ -91,8 +91,9 @@ tr:not(.plenary):not(.contribution):not(.poster):not(.opening):not(.closing) {
 
   <tr class="contribution"><td>10:20 – 10:45</td>
     <td>
-      <div class="item">Contribution 2
-        <span class="title">Title</span>
+      <div class="item">
+        <span class="title">Self-Supervised deep-learning for reconstruction in digital in-line holographic microscopy</span>
+        Félix Riedel
       </div>
     </td>
   </tr>
