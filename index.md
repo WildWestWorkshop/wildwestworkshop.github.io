@@ -111,15 +111,15 @@ setInterval(showSlides, 6000);
 <img title="a title" alt="Rennes" src="/images/supelec1.jpg">
 </p>
 -->
-<div style="border:2px solid #ad2831; border-radius:10px; padding:1em; margin:2em 0 2em 0; font-size:0.9em; color:#555; text-align:justify;">
+<!--<div style="border:2px solid #ad2831; border-radius:10px; padding:1em; margin:2em 0 2em 0; font-size:0.9em; color:#555; text-align:justify;">-->
 <p>
   Poster of the workshop are available
-  <a href="{{ '/assets/pdf/posterAIWILDWEST.pdf' | relative_url }}" target="_blank">
+  <a href="{{ '/assets/pdf/posterAIWILDWest.pdf' | relative_url }}" target="_blank">
     here
   </a>
 </p>
 <br>
-</div>
+<!--</div>-->
 
 ## Objectives of the workshop
 - Bring together researchers working at the interface between artificial intelligence, inverse problems, and applied mathematics, with applications in translational research, imaging and data science.
