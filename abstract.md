@@ -11,7 +11,7 @@ title: Contributions
 
 .contrib-list li,
 .poster-list li {
-  margin-bottom: 1.2em;
+  margin-bottom: 0.5em;
 }
 
 .title {
@@ -39,6 +39,12 @@ title: Contributions
     </span>
   </li>
   
+  /*<li>
+    <span class="title">Self-supervised regularized deep-learning for reconstruction in digital in-line holographic microscopy</span><br>
+    <span class="authors">
+      Félix Riedel, D. Brault, C. Fournier, T. Olivier, L. Denis
+    </span>
+  </li>*/
   
   <li>
     <span class="title">Kirchhoff forests for Graph Linear Algebra</span><br>
@@ -46,9 +52,27 @@ title: Contributions
       <u>Simon Barthelmé</u>, N. Tremblay
     </span>
   </li>
+  
 </ul>
 
+<h3>Day 2</h3>
 
+<h2 style="color: #4a7c59;">Poster – Day 2 (12:15–14:15)</h2>
+<ul class="poster-list">
+  <li>
+    <span class="poster-id">C006</span> :
+    <span class="title">Better to denoise a weak noise, the power of conservative diffusion models</span><br>
+    <span class="authors">
+      R. Gruhlke, D. Heitz, E. Mémin, <u>Valentin Resseguier</u>, M. Talla
+    </span>
+  </li>
 
-<h2 style="color: #4a7c59;">Poster</h2>
-TBN
+  <li>
+    <span class="poster-id">C019</span> :
+    <span class="title">SPECT with a Compton camera: image reconstruction challenges and deep learning perspectives</span><br>
+    <span class="authors">
+      <u>Leo Milliat</u>, T. Modrzyk, E. Testa, V. Maxim
+    </span>
+  </li>
+  
+</ul>
