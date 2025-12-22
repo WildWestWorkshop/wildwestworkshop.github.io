@@ -57,7 +57,7 @@ title: Contributions
   <li>
     <span class="title">LATINO-PRO: LAtent consisTency INverse sOlver with PRompt Optimization</span><br>
     <span class="authors">
-      <u>Alessio Spagnoletti</u>, J. Prost, A. Almansa, N. Papadakis, M. Pereyra4
+      <u>Alessio Spagnoletti</u>, J. Prost, A. Almansa, N. Papadakis, M. Pereyra
     </span>
   </li>
 
@@ -67,6 +67,20 @@ title: Contributions
       <u>Jean – François Giovannelli</u>
     </span>
   </li>-->
+
+   <li>
+    <span class="title">Manifold-Aware Langevin Purification for Flow-based Medical Inverse Problem Solvers</span><br>
+    <span class="authors">
+      <u>Antoine De Paepe</u>, Y. Mellak, A. Bousse, C. Phung-Ngoc, D. Vivikis
+    </span>
+  </li>
+
+   <li>
+    <span class="title">Deep-learning based Plug-And-Play methods for CT reconstruction</span><br>
+    <span class="authors">
+      <u>Idris Tatachak</u>, L. Kabongo, N. Papadakis, X. Ripoche, S. Rit
+    </span>
+  </li>
   
 </ul>
 
