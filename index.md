@@ -117,8 +117,7 @@ setInterval(showSlides, 6000);
   <a href="{{ '/assets/pdf/posterAIWILDWest.pdf' | relative_url }}" target="_blank">
     here
   </a>
-</p>
-<p>
+  <br>
   Workshop booklet <em>(to appear)</em>
 </p>
 <!--</div>-->
