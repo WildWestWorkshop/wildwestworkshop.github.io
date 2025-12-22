@@ -32,7 +32,7 @@ title: Contributions
 </style>
 
 <h2 style="color: #1e6091;">Contributed Talks</h2>
-<h3>Day 1</h3>
+<h3 style="color: #1e6091;">Day 1</h3>
 <ul class="contrib-list">
   <li>
     <span class="title">Unsupervised Residual Plug-and-Play for Image Super-Resolution with Adaptation to Ultrasound</span><br>
@@ -87,7 +87,44 @@ title: Contributions
 
 
 
-<h3>Day 2</h3>
+<h3 style="color: #1e6091;">Day 2</h3>
+<ul class="contrib-list">
+  <!--<li>
+    <span class="title">On the impact of the parametrization of deep convolutional neural networks on post-training quantization</span><br>
+    <span class="authors">
+      <u>Samy Houachei</u>, J.-F. Aujol, Y. Traonmilin
+    </span>
+  </li>-->
+
+  <!--<li>
+    <span class="title">Recent Advances in Mediated Uncoupled Learning</span><br>
+    <span class="authors">
+      <u>Ikko Yamane</u>
+    </span>
+  </li>-->
+
+  <!--<li>
+    <span class="title">Neural network approach for inference of nonlinear mixed effect models based on ordinary differential equations</span><br>
+    <span class="authors">
+      <u>Zhe Li</u>, M. Prague, R. Thiébaut, Q. Clairon
+    </span>
+  </li>-->
+
+  <!--<li>
+    <span class="title">Incompressible neural networks with application to image denoising</span><br>
+    <span class="authors">
+      <u>Sébastien Herbreteau</u>, E. Meunier
+    </span>
+  </li>-->
+
+  <!--<li>
+    <span class="title">Efficient and guaranteed posterior sampling based on diffusion prior</span><br>
+    <span class="authors">
+      Théo Hanon, Nicolas Mil-Homens Cavaco, Laurent Jacques
+    </span>
+  </li>-->
+  
+</ul>
 
 <h2 style="color: #4a7c59;">Poster – Day 2 (12:15–14:15)</h2>
 <ul class="poster-list">
