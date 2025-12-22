@@ -41,12 +41,12 @@ title: Contributions
     </span>
   </li>
   
-  <!--<li>
+  <li>
     <span class="title">Self-supervised regularized deep-learning for reconstruction in digital in-line holographic microscopy</span><br>
     <span class="authors">
       Félix Riedel, D. Brault, C. Fournier, T. Olivier, L. Denis
     </span>
-  </li>-->
+  </li>
   
   <li>
     <span class="title">Kirchhoff forests for Graph Linear Algebra</span><br>
