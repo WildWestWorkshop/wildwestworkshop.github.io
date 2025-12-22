@@ -16,10 +16,11 @@ title: Contributions
 
 .title {
   font-weight: bold;
+  font-size: 0.9em;
 }
 
 .authors {
-  font-size: 0.9em;
+  font-size: 0.8em;
   color: #444;
 }
 
@@ -52,8 +53,24 @@ title: Contributions
       <u>Simon Barthelmé</u>, N. Tremblay
     </span>
   </li>
+
+  <li>
+    <span class="title">LATINO-PRO: LAtent consisTency INverse sOlver with PRompt Optimization</span><br>
+    <span class="authors">
+      <u>Alessio Spagnoletti</u>, J. Prost, A. Almansa, N. Papadakis, M. Pereyra4
+    </span>
+  </li>
+
+  <!--<li>
+    <span class="title">Efficient and guaranteed posterior sampling based on diffusion prior</span><br>
+    <span class="authors">
+      <u>Jean – François Giovannelli</u>
+    </span>
+  </li>-->
   
 </ul>
+
+
 
 <h3>Day 2</h3>
 
@@ -71,7 +88,15 @@ title: Contributions
     <span class="poster-id">C019</span> :
     <span class="title">SPECT with a Compton camera: image reconstruction challenges and deep learning perspectives</span><br>
     <span class="authors">
-      <u>Leo Milliat</u>, T. Modrzyk, E. Testa, V. Maxim
+      <u>Léo Milliat</u>, T. Modrzyk, E. Testa, V. Maxim
+    </span>
+  </li>
+
+  <li>
+    <span class="poster-id">C034</span> :
+    <span class="title">3D CT-free PET Reconstruction using Diffusion Models</span><br>
+    <span class="authors">
+      <u>Clémentine Phung-Ngoc</u>, A. Bousse, A. De Paepe, T. Merlin, B. Laurent, H.-P. Dang, O. Saut, D. Visvikis
     </span>
   </li>
   
