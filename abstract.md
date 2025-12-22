@@ -2,7 +2,7 @@
 layout: page
 title: Contributions
 ---
-
+<style>
 .contrib-list,
 .poster-list {
   list-style: none;
@@ -27,7 +27,7 @@ title: Contributions
   font-weight: bold;
   color: #333;
 }
-
+</style>
 
 <h2 style="color: #1e6091;">Contributed Talks</h2>
 <h3>Day 1</h3>
