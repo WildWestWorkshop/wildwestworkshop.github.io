@@ -118,7 +118,9 @@ setInterval(showSlides, 6000);
     here
   </a>
 </p>
-<br>
+<p>
+  Workshop booklet <em>(to appear)</em>
+</p>
 <!--</div>-->
 
 ## Objectives of the workshop
