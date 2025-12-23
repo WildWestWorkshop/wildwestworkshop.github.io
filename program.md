@@ -249,8 +249,9 @@ Flow-based Medical Inverse Problem Solvers</span>
 
   <tr class="contribution"><td>15:05 – 15:30</td>
     <td>
-      <div class="item">Contribution 11
-        <span class="title">Title</span>
+      <div class="item">
+        <span class="title">Spherical neural fields for dynamic and volumetric harmonic functions</span>
+        Théo Hanon
       </div>
     </td>
   </tr>
