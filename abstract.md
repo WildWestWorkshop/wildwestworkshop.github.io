@@ -122,7 +122,7 @@ title: Contributions
   <li>
     <span class="title">Efficient and guaranteed posterior sampling based on diffusion prior</span><br>
     <span class="authors">
-      Théo Hanon, Nicolas Mil-Homens Cavaco, Laurent Jacques
+       <u>Théo Hanon</u>, N. Mil-Homens Cavaco, L. Jacques
     </span>
   </li>
   
