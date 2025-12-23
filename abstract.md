@@ -119,12 +119,12 @@ title: Contributions
     </span>
   </li>-->
 
-  <!--<li>
+  <li>
     <span class="title">Efficient and guaranteed posterior sampling based on diffusion prior</span><br>
     <span class="authors">
       Théo Hanon, Nicolas Mil-Homens Cavaco, Laurent Jacques
     </span>
-  </li>-->
+  </li>
   
 </ul>
 
@@ -145,6 +145,14 @@ title: Contributions
       <u>Le Minh Triet Tran</u>, S. Reynaud, M. Q. Pham, R. Fablet, A. Merlini, F. Rousseau
     </span>
   </li>
+
+  <li>
+    <span class="poster-id">[C018]</span> 
+    <span class="title">Optimization Strategies for Distance-Encoding Neural Networks: Evolutionary vs. Gradient-Based Approaches in Data-Scarce Medical Applications</span><br>
+    <span class="authors">
+      <u>Amine Boukhari</u>, B. Ecsedi, L. Papp, M. Hatt
+    </span>
+  </li>
   
   <li>
     <span class="poster-id">[C019]</span> 
@@ -154,6 +162,14 @@ title: Contributions
     </span>
   </li>
 
+ <li>
+    <span class="poster-id">[C030]</span> 
+    <span class="title">Numerical Approximation of some Inverse Problems with Optimization Approach based on Metaheuristic Approaches</span><br>
+    <span class="authors">
+      <u>Chakir Tajani</u>,  J. Daoudi
+    </span>
+  </li>
+  
   <li>
     <span class="poster-id">[C034]</span> 
     <span class="title">3D CT-free PET Reconstruction using Diffusion Models</span><br>
