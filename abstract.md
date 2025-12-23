@@ -30,7 +30,9 @@ title: Contributions
   color: #333;
 }
 </style>
-
+<p>
+  Titles and abstracts are available in the workshop booklet <em>(to appear)</em>
+</p>
 <h2 style="color: #1e6091;">Contributed Talks</h2>
 <h3 style="color: #1e6091;">Day 1</h3>
 <ul class="contrib-list">
