@@ -166,7 +166,7 @@ title: Contributions
     <span class="poster-id">[C022]</span> 
     <span class="title">A New Method to Accelerate SVM Resolution via Support Vector Identification</span><br>
     <span class="authors">
-      <u>Viellefon Gabriel </u>, C. Elvira, C.Herzet
+      <u>Gabriel Viellefon</u>, C. Elvira, C.Herzet
     </span>
   </li>
 
