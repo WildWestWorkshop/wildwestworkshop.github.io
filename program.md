@@ -144,8 +144,9 @@ PRompt Optimization</span>
 
   <tr class="contribution"><td>15:00 – 15:25</td>
     <td>
-      <div class="item">Contribution 5
-        <span class="title">Title</span>
+      <div class="item">
+        <span class="title">An efficient and guaranteed scheme for posterior sampling in inverse problem based on prior diffusion model</span>
+        Jean-François Giovannelli
       </div>
     </td>
   </tr>
