@@ -64,12 +64,12 @@ title: Contributions
     </span>
   </li>
 
-  <!--<li>
-    <span class="title">Efficient and guaranteed posterior sampling based on diffusion prior</span><br>
+  <li>
+    <span class="title">An efficient and guaranteed scheme for posterior sampling in inverse problem based on prior diffusion model</span><br>
     <span class="authors">
-      <u>Jean – François Giovannelli</u>
+      <u>Jean-François Giovannelli</u>
     </span>
-  </li>-->
+  </li>
 
    <li>
     <span class="title">Manifold-Aware Langevin Purification for Flow-based Medical Inverse Problem Solvers</span><br>
@@ -159,6 +159,14 @@ title: Contributions
     <span class="title">SPECT with a Compton camera: image reconstruction challenges and deep learning perspectives</span><br>
     <span class="authors">
       <u>Léo Milliat</u>, T. Modrzyk, E. Testa, V. Maxim
+    </span>
+  </li>
+
+  <li>
+    <span class="poster-id">[C022]</span> 
+    <span class="title">A New Method to Accelerate SVM Resolution via Support Vector Identification</span><br>
+    <span class="authors">
+      <u>Viellefon Gabriel </u>, C. Elvira, C.Herzet
     </span>
   </li>
 
