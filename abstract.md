@@ -139,6 +139,22 @@ title: Contributions
   </li>
 
   <li>
+    <span class="poster-id">[C011]</span> 
+    <span class="title">AI Models for Early Type 2 Diabetes Prediction</span><br>
+    <span class="authors">
+      <u>Assia Kourgli</u>, R. Kheddam
+    </span>
+  </li>
+
+  <li>
+    <span class="poster-id">[C012]</span> 
+    <span class="title">Comparative Evaluation of Vision Transformer Architectures for Automatic Wheat Disease Detection</span><br>
+    <span class="authors">
+      <u>Assia Kourgli</u>, R. Kheddam
+    </span>
+  </li>
+  
+  <li>
     <span class="poster-id">[C017]</span> 
     <span class="title">Bi-Level Optimization with Learned Preconditioning: Application to EEG Source Imaging</span><br>
     <span class="authors">
@@ -161,7 +177,15 @@ title: Contributions
       <u>Léo Milliat</u>, T. Modrzyk, E. Testa, V. Maxim
     </span>
   </li>
-
+  
+  <li>
+    <span class="poster-id">[C021]</span> 
+    <span class="title">Anisotropy-Aware Strategy for Robust Deep Learning-Based Particle Picking in 3D Cellular Cryo-Electron Tomogram</span><br>
+    <span class="authors">
+      <u>Mounir Messaoudi</u>, C. Kervrann 
+    </span>
+  </li>
+  
   <li>
     <span class="poster-id">[C022]</span> 
     <span class="title">A New Method to Accelerate SVM Resolution via Support Vector Identification</span><br>
