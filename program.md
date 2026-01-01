@@ -71,8 +71,8 @@ tr:not(.plenary):not(.contribution):not(.poster):not(.opening):not(.closing) {
 
 <h3>Day 1</h3>
 <table class="schedule">
-  <tr><td>08:30 – 09:00</td><td>Welcome</td></tr>
-  <tr class="opening"><td>09:00 – 09:05</td><td>Opening</td></tr>
+  <tr><td>08:20 – 08:55</td><td>Welcome</td></tr>
+  <tr class="opening"><td>08:55 – 09:05</td><td>Opening</td></tr>
 
   <tr class="plenary"><td>09:05 – 09:55</td>
     <td>
