@@ -197,16 +197,18 @@ Flow-based Medical Inverse Problem Solvers</span>
 
   <tr class="contribution"><td>09:50 – 10:15</td>
     <td>
-      <div class="item">Contribution 8
-        <span class="title">Title</span>
+      <div class="item">
+        <span class="title">Spherical neural fields for dynamic and volumetric harmonic functions</span>
+        Théo Hanon
       </div>
     </td>
   </tr>
 
   <tr class="contribution"><td>10:15 – 10:40</td>
     <td>
-      <div class="item">Contribution 9
-        <span class="title">Title</span>
+      <div class="item">
+        <span class="title">On the impact of the parametrization of deep convolutional neural networks on post-training quantization</span>
+        Samy Houache
       </div>
     </td>
   </tr>
@@ -224,13 +226,14 @@ Flow-based Medical Inverse Problem Solvers</span>
 
   <tr class="contribution"><td>11:50 – 12:15</td>
     <td>
-      <div class="item">Contribution 10
-        <span class="title">Title</span>
+      <div class="item">
+        <span class="title">Neural network approach for inference of nonlinear mixed effect models based on ordinary differential equations</span>
+        Zhe Li
       </div>
     </td>
   </tr>
 
-  <tr class="poster"><td>12:15 – 14:15</td>
+  <tr class="poster"><td>12:15 – 14:30</td>
     <td>
       <div>
         <span style="font-weight:bold;">Lunch with</span><br>
@@ -239,7 +242,7 @@ Flow-based Medical Inverse Problem Solvers</span>
     </td>
   </tr>
 
-  <tr class="plenary"><td>14:15 – 15:05</td>
+  <tr class="plenary"><td>14:30 – 15:20</td>
     <td>
       <div class="item">
         <span class="title">Reconstruct Anything Model: a lightweight foundation model for computational imaging</span>
@@ -248,26 +251,19 @@ Flow-based Medical Inverse Problem Solvers</span>
     </td>
   </tr>
 
-  <tr class="contribution"><td>15:05 – 15:30</td>
+  <tr class="contribution"><td>15:20 – 15:45</td>
     <td>
       <div class="item">
-        <span class="title">Spherical neural fields for dynamic and volumetric harmonic functions</span>
-        Théo Hanon
+        <span class="title">Incompressible neural networks with application to image denoising</span>
+       Sébastien Herbreteau
       </div>
     </td>
   </tr>
 
-  <tr class="contribution"><td>15:30 – 15:55</td>
-    <td>
-      <div class="item">Contribution 12
-        <span class="title">Title</span>
-      </div>
-    </td>
-  </tr>
 
-  <tr><td>15:55 – 16:15</td><td>Coffee Break</td></tr>
+  <tr><td>15:45 – 16:05</td><td>Coffee Break</td></tr>
 
-  <tr class="plenary"><td>16:15 – 17:05</td>
+  <tr class="plenary"><td>16:05 – 16:55</td>
     <td>
       <div class="item">
         <span class="title">Generative AI for medical image reconstruction in positron emission tomography (PET)</span>
@@ -276,7 +272,7 @@ Flow-based Medical Inverse Problem Solvers</span>
     </td>
   </tr>
 
-  <tr class="closing"><td>17:05 – 17:15</td><td>Closing</td></tr>
+  <tr class="closing"><td>16:55 – 17:15</td><td>Closing</td></tr>
 </table>
 
 
