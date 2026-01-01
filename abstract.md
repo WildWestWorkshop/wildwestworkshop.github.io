@@ -102,7 +102,7 @@ title: Contributions
   <li>
     <span class="title">On the impact of the parametrization of deep convolutional neural networks on post-training quantization</span><br>
     <span class="authors">
-      <u>Samy Houachei</u>, J.-F. Aujol, Y. Traonmilin
+      <u>Samy Houache</u>, J.-F. Aujol, Y. Traonmilin
     </span>
   </li>
 
