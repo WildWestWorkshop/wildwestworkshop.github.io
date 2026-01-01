@@ -272,7 +272,7 @@ Flow-based Medical Inverse Problem Solvers</span>
     </td>
   </tr>
 
-  <tr class="closing"><td>16:55 – 17:15</td><td>Closing</td></tr>
+  <tr class="closing"><td>16:55 – 17:15</td><td>Best Abstract Awards Announcement and Closing</td></tr>
 </table>
 
 
