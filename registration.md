@@ -27,12 +27,18 @@ Contributors (authors and co-authors) may still register using a dedicated regis
 If some co-authors have not received the link (e.g. when only the corresponding author’s email was provided at submission), they are invited to contact the organizers <a href="mailto:aiwildwest.workshop@gmail.com">aiwildwest.workshop@gmail.com</a> to obtain the registration details.
 </div>
 <div style="text-align:justify;margin-top:0.5em;padding:0;">
-If you are not a contributor, you may still register for the waiting list via <a href="https://docs.google.com/forms/d/e/1FAIpQLSfpAYZ7iGzWfG2MeWgkJJhfjDsd-WdIbevg4AO5GRdRoP6m5g/viewform?usp=dialog">this form</a>
-</div>
-<div style="text-align:justify;margin-top:0.5em;padding:0;">
 We kindly ask participants who have already registered but will not be able to attend to inform us as soon as possible, so that their place can be reallocated to other participants.
 To cancel your registration, please send an email to <a href="mailto:aiwildwest.workshop@gmail.com">aiwildwest.workshop@gmail.com</a> with your full name and the subject line “Registration Cancellation”.
 </div>
+
+<h2 style="color: #ad2831;">Registration without lunch</h2>
+<div style="text-align:justify;padding:0;">
+Participants who wish to attend the workshop without lunch provision may still register via <a href="https://docs.google.com/forms/d/e/1FAIpQLSfpAYZ7iGzWfG2MeWgkJJhfjDsd-WdIbevg4AO5GRdRoP6m5g/viewform?usp=dialog">this form</a>
+</div>.
+<div style="text-align:justify;margin-top:0.5em;padding:0;">
+Please note that no lunch will be provided for this registration category; participants are expected to make their own arrangements.
+</div>
+
 
 
 
