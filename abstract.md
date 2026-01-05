@@ -133,6 +133,14 @@ title: Contributions
     </span>
   </li>
 
+ <li>
+    <span class="poster-id">[C007]</span> 
+    <span class="title">Modeling strategies for speech enhancement in the latent space of a neural audio codec</span><br>
+    <span class="authors">
+      <u>Sofiene Kammoun</u>, X. Alameda-Pineda, S. Leglaive
+    </span>
+  </li>
+  
   <li>
     <span class="poster-id">[C011]</span> 
     <span class="title">AI Models for Early Type 2 Diabetes Prediction</span><br>
