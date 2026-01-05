@@ -246,10 +246,19 @@ title: Contributions
   </li>
 
  <li>
+    <span class="poster-id">[C029]</span> 
+    <span class="title">Comparing generative models with an end-to-end approach for solving inverse problems</span><br>
+    <span class="authors">
+      <u>Nazim Kerkech</u>, J. Froment, C. Launay, B. Vedel, F. Vermet
+    </span>
+  </li>
+  
+
+ <li>
     <span class="poster-id">[C030]</span> 
     <span class="title">Numerical Approximation of some Inverse Problems with Optimization Approach based on Metaheuristic Approaches</span><br>
     <span class="authors">
-      <u>Chakir Tajani</u>,  J. Daoudi
+      <u>Chakir Tajani</u>, J. Daoudi
     </span>
   </li>
   
