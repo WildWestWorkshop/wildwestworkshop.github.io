@@ -149,6 +149,14 @@ title: Contributions
     </span>
   </li>
 
+  <li>
+    <span class="poster-id">[C013]</span> 
+    <span class="title">MLEM as a Bregman mirror descent</span><br>
+    <span class="authors">
+      <u>Thibaut Modrzyk</u>, E. Bretin, V. Maxim
+    </span>
+  </li>
+
    <li>
     <span class="poster-id">[C014]</span> 
     <span class="title">Learning noise-adaptive attention for microtubule segmentation in fluorescence microscopy images</span><br>
@@ -210,6 +218,14 @@ title: Contributions
     <span class="title">A New Method to Accelerate SVM Resolution via Support Vector Identification</span><br>
     <span class="authors">
       <u>Gabriel Viellefon</u>, C. Elvira, C.Herzet
+    </span>
+  </li>
+
+  <li>
+    <span class="poster-id">[C027]</span> 
+    <span class="title">A Complete Pipeline of Multi-view Photometric Stereo</span><br>
+    <span class="authors">
+      <u>Jean Mélou</u>, B. Brumen
     </span>
   </li>
 
