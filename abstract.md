@@ -148,6 +148,22 @@ title: Contributions
       <u>Assia Kourgli</u>, R. Kheddam
     </span>
   </li>
+
+   <li>
+    <span class="poster-id">[C014]</span> 
+    <span class="title">Learning noise-adaptive attention for microtubule segmentation in fluorescence microscopy images</span><br>
+    <span class="authors">
+      A. Ait Laydi, L. Cueff, M. Crespo, Y. El Mourabit, <u>Hélène Bouvrais</u>
+    </span>
+  </li>
+
+  <li>
+    <span class="poster-id">[C016]</span> 
+    <span class="title">Unrolled MAPEM for SPECT reconstruction</span><br>
+    <span class="authors">
+      <u>Corentin Constanza</u>, T. Kaprelian, A. Etxebeste, D. Sarrut
+    </span>
+  </li>
   
   <li>
     <span class="poster-id">[C017]</span> 
