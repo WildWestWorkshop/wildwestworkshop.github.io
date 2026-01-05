@@ -260,5 +260,13 @@ title: Contributions
       <u>Clémentine Phung-Ngoc</u>, A. Bousse, A. De Paepe, T. Merlin, B. Laurent, H.-P. Dang, O. Saut, D. Visvikis
     </span>
   </li>
+
+  <li>
+    <span class="poster-id">[C035]</span> 
+    <span class="title">A Hierarchical Likelihood Model for Non-linear Inverse Problems under Additive and Multiplicative noise</span><br>
+    <span class="authors">
+      <u>Nicolas Goeman</u>, P.-A. Thouvenin, P. Chainais
+    </span>
+  </li>
   
 </ul>
