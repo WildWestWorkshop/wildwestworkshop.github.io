@@ -230,6 +230,15 @@ title: Contributions
   </li>
 
   <li>
+    <span class="poster-id">[C023]</span> 
+    <span class="title">Safe tightness identification between ℓ0-penalized problem and its convex relaxation</span><br>
+    <span class="authors">
+      <u>Johann Faouzi</u>, T. Guyard, C. Elvira, C.Herzet
+    </span>
+  </li>
+  
+
+  <li>
     <span class="poster-id">[C025]</span> 
     <span class="title">Impact of CT Machine Parameters on the Efficacy of Hybrid-ODPS-driven Material Decomposition</span><br>
     <span class="authors">
