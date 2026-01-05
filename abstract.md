@@ -230,6 +230,14 @@ title: Contributions
   </li>
 
   <li>
+    <span class="poster-id">[C025]</span> 
+    <span class="title">Impact of CT Machine Parameters on the Efficacy of Hybrid-ODPS-driven Material Decomposition</span><br>
+    <span class="authors">
+      <u>Thore Dassow</u>, C. Vazia, A. Perelli, D. Visvikis, A. Bousse
+    </span>
+  </li>
+  
+  <li>
     <span class="poster-id">[C027]</span> 
     <span class="title">A Complete Pipeline of Multi-view Photometric Stereo</span><br>
     <span class="authors">
