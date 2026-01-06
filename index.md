@@ -247,7 +247,7 @@ setInterval(showSlides, 6000);
 
 
 
-<center><img style="display: block; margin: auto;" alt="logos" src="/images/logosUpdate.png"></center>
+<center><img style="display: block; margin: auto;" alt="logos" src="/images/logos/logosSponsor.png"></center>
 
 
 
