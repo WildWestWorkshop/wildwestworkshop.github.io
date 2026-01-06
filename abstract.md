@@ -236,7 +236,14 @@ title: Contributions
       <u>Johann Faouzi</u>, T. Guyard, C. Elvira, C.Herzet
     </span>
   </li>
-  
+
+  <li>
+    <span class="poster-id">[C024]</span> 
+    <span class="title">Flow Matching for Microtubule Segmentation in Noisy Microscopy Images</span><br>
+    <span class="authors">
+      <u>Sidi Mohamed Sid'El Moctar</u>,  A. Ait Laydi, Y. El Mourabit, H. Bouvrais
+    </span>
+  </li>
 
   <li>
     <span class="poster-id">[C025]</span> 
