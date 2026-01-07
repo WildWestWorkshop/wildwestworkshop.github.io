@@ -277,6 +277,14 @@ title: Contributions
       <u>Chakir Tajani</u>, J. Daoudi
     </span>
   </li>
+
+  <li>
+    <span class="poster-id">[C033]</span> 
+    <span class="title">Deep Equilibrium models for hyper-parameter tuning in regularized PET reconstruction</span><br>
+    <span class="authors">
+      <u>Alix Chazottes</u>, E. Chouzenoux, F. Sureau, J-C. Pesquet
+    </span>
+  </li>
   
   <li>
     <span class="poster-id">[C034]</span> 
