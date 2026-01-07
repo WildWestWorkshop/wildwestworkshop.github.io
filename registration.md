@@ -36,7 +36,7 @@ To cancel your registration, please send an email to <a href="mailto:aiwildwest.
 Participants who wish to attend the workshop without lunches provided may still register via <a href="https://docs.google.com/forms/d/e/1FAIpQLSfpAYZ7iGzWfG2MeWgkJJhfjDsd-WdIbevg4AO5GRdRoP6m5g/viewform?usp=dialog">this form</a>.
 </div>
 <div style="text-align:justify;margin-top:0.5em;padding:0;">
-Please note that no lunches will be provided for this registration category; participants are expected to make their own arrangements.
+Please note that no lunches will be provided for this registration category, participants are expected to make their own arrangements.
 </div>
 
 
