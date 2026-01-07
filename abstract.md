@@ -301,5 +301,13 @@ title: Contributions
       <u>Nicolas Goeman</u>, P.-A. Thouvenin, P. Chainais
     </span>
   </li>
+
+  <li>
+    <span class="poster-id">[C037]</span> 
+    <span class="title">Icecream: High-Fidelity Equivariant Cryo-Electron Tomography</span><br>
+    <span class="authors">
+      V. Kishore, <u>Valentin Debarnot</u>, R. D. Righetto, B. D. Engel, I. Dokmanić
+    </span>
+  </li>
   
 </ul>
