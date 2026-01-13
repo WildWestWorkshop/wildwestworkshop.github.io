@@ -34,7 +34,7 @@ The city of Rennes has two automatic metro lines (lines **A** and **B**).
 
 From the Rennes train station (station "**Gare**") , the **CentraleSupélec Rennes campus** is served by **line B** (station "**Atalante**", direction "**Via Silva**").
 
-Upon exiting the Atalante station, follow the signs for **Avenue de la Boulaie** and the CentraleSupélec campus. The campus is approximately a **5-minute walk** from the station.
+When you exit the Atalante station, walk along Avenue Belle Fontaine (eastbound, towards the "Région Bretagne" and "Orange" buildings) for 350 metres, then cross the student residence at the Belle Fontaine bus stop to reach the campus.
 
 It is also possible to reach the campus by **bus (line C4)** from the city center (approximately 20 minutes). Get off at the **Atalante** stop to reach the campus.
 
