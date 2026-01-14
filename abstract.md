@@ -70,11 +70,11 @@ title: Contributions
       <u>Jean-François Giovannelli</u>
     </span>
   </li>
-
+  
    <li>
-    <span class="title">Manifold-Aware Langevin Purification for Flow-based Medical Inverse Problem Solvers</span><br>
+    <span class="title">Icecream: High-Fidelity Equivariant Cryo-Electron Tomography</span><br>
     <span class="authors">
-      <u>Antoine De Paepe</u>, Y. Mellak, A. Bousse, C. Phung-Ngoc, D. Vivikis
+       V. Kishore, <u>Valentin Debarnot</u>, R. D. Righetto, B. D. Engel, I. Dokmanić
     </span>
   </li>
 
@@ -310,4 +310,11 @@ title: Contributions
     </span>
   </li>
   
+  <li>
+    <span class="poster-id">[C036]</span> 
+    <span class="title">Manifold-Aware Langevin Purification for Flow-based Medical Inverse Problem Solvers </span><br>
+    <span class="authors">
+     <u>Antoine De Paepe</u>, Y. Mellak, A. Bousse, C. Phung-Ngoc, D. Vivikis
+    </span>
+  </li>
 </ul>
