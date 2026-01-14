@@ -165,9 +165,8 @@ PRompt Optimization</span>
   <tr class="contribution"><td>16:35 – 17:00</td>
     <td>
       <div class="item">
-        <span class="title">Manifold-Aware Langevin Purification for
-Flow-based Medical Inverse Problem Solvers</span>
-        Antoine De Paepe
+        <span class="title">Icecream: High-Fidelity Equivariant Cryo-Electron Tomography</span>
+        Valentin Debarnot
       </div>
     </td>
   </tr>
