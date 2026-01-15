@@ -5,7 +5,7 @@ title: Program
 <p>
   Titles and abstracts are available in the workshop booklet <em>(to appear)</em>
 </p>
-<h2 style="color: #ad2831;">Schedule (ongoing)</h2>
+<h2 style="color: #ad2831;">Schedule</h2>
 
 <style>
   table.schedule {
