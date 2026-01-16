@@ -18,6 +18,12 @@ Depending on the number of contributions received, we may organise a poster sess
 <strong>Acceptance notification</strong>: <span style="color: darkred;"> December 19, 2025 </span>
 </div>
 
+<div style="text-align:justify; margin:0.5em; padding:0;">
+<strong>Poster format</strong><br>
+If possible, contributors are encouraged to prepare their poster in A0 portrait format.
+However, other formats are also acceptable and will not be an issue.
+</div>
+
 <h2 style="color: #ad2831;">Registration with lunches -  Closed</h2>
 <div style="text-align:justify;padding:0;">
 Registration with lunches is now closed, as the maximum number of participants has been reached.
