@@ -305,9 +305,9 @@ title: Contributions
   
   <li>
     <span class="poster-id">[C036]</span> 
-    <span class="title">Manifold-Aware Langevin Purification for Flow-based Medical Inverse Problem Solvers </span><br>
+    <span class="title">Adaptive Diffusion Models for Sparse-View Motion-Corrected Head Cone-beam CT</span><br>
     <span class="authors">
-     <u>Antoine De Paepe</u>, Y. Mellak, A. Bousse, C. Phung-Ngoc, D. Vivikis
+     <u>Antoine De Paepe</u>, A. Bousse, C. Phung-Ngoc, Y. Mellak, D. Vivikis
     </span>
   </li>
 </ul>
