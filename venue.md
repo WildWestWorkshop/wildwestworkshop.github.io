@@ -7,7 +7,7 @@ The workshop will take place at **CentraleSupélec - Rennes campus**
 **Address**: Avenue de la Boulaie, CS 47601, F-35576 Cesson-Sévigné CEDEX
 
 <iframe 
-  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2685.0259354011676!2d-1.6259761!3d48.1252352!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f15!3m3!1m2!1s0x480edec65f06f455%3A0x72c23e5dbe992d94!2sCentraleSup%C3%A9lec%20-%20Rennes%20Campus!5e0!3m2!1sfr!2sfr!4v1719393689941!5m2!1sfr!2sfr" 
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2685.0259354011676!2d-1.6259761!3d48.1252352!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f17!3m3!1m2!1s0x480edec65f06f455%3A0x72c23e5dbe992d94!2sCentraleSup%C3%A9lec%20-%20Rennes%20Campus!5e0!3m2!1sfr!2sfr!4v1719393689941!5m2!1sfr!2sfr" 
   width="100%" 
   height="450" 
   style="border:0;" 
