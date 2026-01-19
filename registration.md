@@ -20,7 +20,7 @@ Depending on the number of contributions received, we may organise a poster sess
 
 <div style="text-align:justify; margin:0.5em; padding:0;">
 <strong>Poster format</strong><br>
-If possible, contributors are encouraged to prepare their poster in A0 portrait format.
+If possible, contributors are encouraged to prepare their poster in <strong>A0 portrait format</strong>.
 However, other formats (A1 and/or landscape) are also acceptable and will not be an issue.<br>
  
  <strong>Contributed talk format</strong><br>
