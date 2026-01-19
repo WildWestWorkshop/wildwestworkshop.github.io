@@ -21,7 +21,11 @@ Depending on the number of contributions received, we may organise a poster sess
 <div style="text-align:justify; margin:0.5em; padding:0;">
 <strong>Poster format</strong><br>
 If possible, contributors are encouraged to prepare their poster in A0 portrait format.
-However, other formats are also acceptable and will not be an issue.
+However, other formats (A1 and/or landscape) are also acceptable and will not be an issue.<br>
+ 
+ <strong>Contributed talk format</strong><br>
+ Contributed talks consist of a 20-minute oral presentation, followed by 5 minutes for questions and discussion. 
+ Speakers must adhere to the time schedule.
 </div>
 
 <h2 style="color: #ad2831;">Registration with lunches -  Closed</h2>
