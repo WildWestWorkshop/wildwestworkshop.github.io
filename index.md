@@ -118,7 +118,9 @@ setInterval(showSlides, 6000);
     here
   </a>
   <br>
-  Workshop booklet <em>(to appear)</em>
+  Workshop booklet are available <a href="https://hal.science/hal-05446173" target="_blank">
+    here
+  </a>
 </p>
 <!--</div>-->
 
