@@ -3,7 +3,9 @@ layout: page
 title: Program
 ---
 <p>
-  Titles and abstracts are available in the workshop booklet <em>(to appear)</em>
+  Titles and abstracts are available in the workshop booklet <a href="https://hal.science/hal-05446173" target="_blank">
+    here
+  </a>
 </p>
 <h2 style="color: #ad2831;">Schedule</h2>
 
