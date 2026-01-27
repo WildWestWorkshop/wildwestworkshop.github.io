@@ -243,7 +243,7 @@ PRompt Optimization</span>
     </td>
   </tr>
 
-  <tr style="background-color: rgb(242, 207, 238);"><td>14:30 – 14:40</td>
+  <tr style="background-color: rgb(242, 207, 238)  !important;"><td>14:30 – 14:40</td>
     <td>
        Best Abstract Awards Announcement
     </td>
