@@ -234,7 +234,7 @@ PRompt Optimization</span>
     </td>
   </tr>
 
-  <tr class="poster"><td>12:15 – 14:30</td>
+  <tr class="poster"><td>12:15 – 14:25</td>
     <td>
       <div>
         <span style="font-weight:bold;">Lunch with</span><br>
@@ -243,7 +243,13 @@ PRompt Optimization</span>
     </td>
   </tr>
 
-  <tr class="plenary"><td>14:30 – 15:20</td>
+  <tr style="background-color: rgb(242, 207, 238);"><td>14:30 – 14:40</td>
+    <td>
+       Best Abstract Awards Announcement
+    </td>
+  </tr>
+  
+  <tr class="plenary"><td>14:40 – 15:30</td>
     <td>
       <div class="item">
         <span class="title">Reconstruct Anything Model: a lightweight foundation model for computational imaging</span>
@@ -252,7 +258,7 @@ PRompt Optimization</span>
     </td>
   </tr>
 
-  <tr class="contribution"><td>15:20 – 15:45</td>
+  <tr class="contribution"><td>15:30 – 15:55</td>
     <td>
       <div class="item">
         <span class="title">Incompressible neural networks with application to image denoising</span>
@@ -262,9 +268,9 @@ PRompt Optimization</span>
   </tr>
 
 
-  <tr><td>15:45 – 16:05</td><td>Coffee Break</td></tr>
+  <tr><td>15:55 – 16:15</td><td>Coffee Break</td></tr>
 
-  <tr class="plenary"><td>16:05 – 16:55</td>
+  <tr class="plenary"><td>16:15 – 17:05</td>
     <td>
       <div class="item">
         <span class="title">Generative AI for medical image reconstruction in positron emission tomography (PET)</span>
@@ -273,7 +279,7 @@ PRompt Optimization</span>
     </td>
   </tr>
 
-  <tr class="closing"><td>16:55 – 17:15</td><td>Best Abstract Awards Announcement and Closing</td></tr>
+  <tr class="closing"><td>17:05 – 17:15</td><td>Closing</td></tr>
 </table>
 
 
