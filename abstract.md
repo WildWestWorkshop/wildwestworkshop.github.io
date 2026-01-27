@@ -123,7 +123,7 @@ title: Contributions
   
 </ul>
 
-<h2 style="color: #4a7c59;">Poster – Day 2 (12:15–14:30)</h2>
+<h2 style="color: #4a7c59;">Poster – Day 2 (12:15–14:25)</h2>
 <ul class="poster-list">
   <li>
     <span class="poster-id">[C006]</span> 
