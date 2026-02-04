@@ -112,6 +112,38 @@ setInterval(showSlides, 6000);
 </p>
 -->
 <!--<div style="border:2px solid #ad2831; border-radius:10px; padding:1em; margin:2em 0 2em 0; font-size:0.9em; color:#555; text-align:justify;">-->
+
+<!--<div style="border:2px solid #ad2831; border-radius:10px; padding:1em; margin:2em 0 2em 0; font-size:0.9em; color:#555; text-align:justify;">-->
+
+<!--</div>-->
+<div style="border:2px solid #ad2831; border-radius:10px; padding:1em; margin:2em 0; font-size:0.9em; color:#555; text-align:justify;">
+  <strong style="color:#ad2831; font-size:1.1em;">
+    🏆 Best Abstract Awards – Winners
+  </strong>
+  <p style="margin-top:0.8em;">
+    The three winners are listed below in <strong>alphabetical order of their abstract titles</strong>:
+  </p>
+  <ul>
+    <li>
+      <strong>Kirchhoff forests for Graph Linear Algebra</strong><br>
+      Simon Barthelmé, N. Tremblay
+    </li>
+    <li>
+      <strong>LATINO-PRO: LAtent consisTency INverse sOlver with PRompt Optimization</strong><br>
+      Alessio Spagnoletti, J. Prost, A. Almansa, N. Papadakis, M. Pereyra
+    </li>
+    <li>
+      <strong>Spherical neural fields for dynamic and volumetric harmonic functions</strong><br>
+      Théo Hanon, N. Mil-Homens Cavaco, L. Jacques
+    </li>
+  </ul>
+  <p style="margin-top:0.8em;">
+    You can consult their abstracts in the booklet available
+    <a href="https://hal.science/hal-05446173" target="_blank" rel="noopener noreferrer">here</a>.
+  </p>
+</div>
+
+
 <p>
   Poster of the workshop are available
   <a href="{{ '/assets/pdf/posterAIWILDWest.pdf' | relative_url }}" target="_blank">
@@ -122,7 +154,8 @@ setInterval(showSlides, 6000);
     here
   </a>
 </p>
-<!--</div>-->
+
+
 
 ## Objectives of the workshop
 - Bring together researchers working at the interface between artificial intelligence, inverse problems, and applied mathematics, with applications in translational research, imaging and data science.
