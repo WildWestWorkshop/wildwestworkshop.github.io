@@ -93,7 +93,7 @@ title: Contributions
 <ul class="contrib-list">
   
   <li>
-    <span class="title">Efficient and guaranteed posterior sampling based on diffusion prior</span><br>
+    <span class="title">Spherical neural fields for dynamic and volumetric harmonic functions</span><br>
     <span class="authors">
        <u>Théo Hanon</u>, N. Mil-Homens Cavaco, L. Jacques
     </span>
