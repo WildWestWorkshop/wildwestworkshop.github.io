@@ -81,7 +81,7 @@ tr:not(.plenary):not(.contribution):not(.poster):not(.opening):not(.closing) {
       <div class="item">
         <span class="title">Super-resolution in fluorescence microscopy by fluctations of molecules and curve modeling
           <a href="{{ '/assets/pdf/S1_01P_LBF_AI_WILD_WEST.pdf' | relative_url }}" target="_blank">
-          pdf
+          [pdf]
           </a>
         </span>
         Laure Blanc-Féraud
@@ -114,7 +114,7 @@ tr:not(.plenary):not(.contribution):not(.poster):not(.opening):not(.closing) {
       <div class="item">
         <span class="title">Continuous dictionaries: an introduction and machine learning perspectives
         <a href="{{ '/assets/pdf/S1_04P_CE_WildAiWest.pdf' | relative_url }}" target="_blank">
-          pdf
+          [pdf]
           </a>
         </span>
         Clément Elvira
@@ -138,7 +138,7 @@ tr:not(.plenary):not(.contribution):not(.poster):not(.opening):not(.closing) {
       <div class="item">
         <span class="title">Unrolled Majorization-Minimization Approaches for Sparse Signal Reconstruction in Analytical Chemistry
         <a href="{{ '/assets/pdf/S2_06P_EC_main_AIWILDWest.pdf' | relative_url }}" target="_blank">
-          pdf
+          [pdf]
           </a>
         </span>
         Émilie Chouzenoux
@@ -172,7 +172,7 @@ PRompt Optimization</span>
       <div class="item">
         <span class="title">Opportunities and Challenges for Machine Learning in Positron Emission Tomography
         <a href="{{ '/assets/pdf/S2_09P_GS_pet_ai_overview_AIWILDWest.pdf' | relative_url }}" target="_blank">
-          pdf
+          [pdf]
           </a>
         </span>
         Georg Schramm
@@ -206,7 +206,11 @@ PRompt Optimization</span>
   <tr class="plenary"><td>09:00 – 09:50</td>
     <td>
       <div class="item">
-        <span class="title">Analytical solutions for CNN inverse problem solvers</span>
+        <span class="title">Analytical solutions for CNN inverse problem solvers
+            <a href="{{ '/assets/pdf/S1_12P_PW_AI_WW_p_weiss.pdf' | relative_url }}" target="_blank">
+          [pdf]
+          </a>
+        </span>
         Pierre Weiss
       </div>
     </td>
@@ -235,7 +239,11 @@ PRompt Optimization</span>
   <tr class="plenary"><td>11:00 – 11:50</td>
     <td>
       <div class="item">
-        <span class="title">Automated data-driven inverse problem resolution: Applications in microfluidics and epidemiology</span>
+        <span class="title">Automated data-driven inverse problem resolution: Applications in microfluidics and epidemiology
+              <a href="{{ '/assets/pdf/S1_15P_BP_AIWildWest26_vfinal.pdf' | relative_url }}" target="_blank">
+          [pdf]
+          </a>
+        </span>
         Barbara Pascal
       </div>
     </td>
@@ -268,7 +276,11 @@ PRompt Optimization</span>
   <tr class="plenary"><td>14:40 – 15:30</td>
     <td>
       <div class="item">
-        <span class="title">Reconstruct Anything Model: a lightweight foundation model for computational imaging</span>
+        <span class="title">Reconstruct Anything Model: a lightweight foundation model for computational imaging
+        <a href="{{ '/assets/pdf/S2_17P_JT_RAM_AIwildWest.pdf' | relative_url }}" target="_blank">
+          [pdf]
+          </a>
+        </span>
         Julián Tachella
       </div>
     </td>
@@ -289,7 +301,11 @@ PRompt Optimization</span>
   <tr class="plenary"><td>16:15 – 17:05</td>
     <td>
       <div class="item">
-        <span class="title">Generative AI for medical image reconstruction in positron emission tomography (PET)</span>
+        <span class="title">Generative AI for medical image reconstruction in positron emission tomography (PET)
+         <a href="{{ '/assets/pdf/S2_19P_AD_AiWILDWest_Rennes_Presentation_PDF.pdf' | relative_url }}" target="_blank">
+          [pdf]
+          </a>
+        </span>
         Andrew Reader
       </div>
     </td>
