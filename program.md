@@ -79,7 +79,11 @@ tr:not(.plenary):not(.contribution):not(.poster):not(.opening):not(.closing) {
   <tr class="plenary"><td>09:05 – 09:55</td>
     <td>
       <div class="item">
-        <span class="title">Super-resolution in fluorescence microscopy by fluctations of molecules and curve modeling</span>
+        <span class="title">Super-resolution in fluorescence microscopy by fluctations of molecules and curve modeling
+          <a href="{{ '/assets/pdf/S1_01P_LBF_AI_WILD_WEST.pdf' | relative_url }}" target="_blank">
+          pdf
+          </a>
+        </span>
         Laure Blanc-Féraud
       </div>
     </td>
@@ -108,7 +112,11 @@ tr:not(.plenary):not(.contribution):not(.poster):not(.opening):not(.closing) {
   <tr class="plenary"><td>11:05 – 11:55</td>
     <td>
       <div class="item">
-        <span class="title">Continuous dictionaries: an introduction and machine learning perspectives</span>
+        <span class="title">Continuous dictionaries: an introduction and machine learning perspectives
+        <a href="{{ '/assets/pdf/S1_04P_CE_WildAiWest.pdf' | relative_url }}" target="_blank">
+          pdf
+          </a>
+        </span>
         Clément Elvira
       </div>
     </td>
@@ -128,7 +136,11 @@ tr:not(.plenary):not(.contribution):not(.poster):not(.opening):not(.closing) {
   <tr class="plenary"><td>13:45 – 14:35</td>
     <td>
       <div class="item">
-        <span class="title">Unrolled Majorization-Minimization Approaches for Sparse Signal Reconstruction in Analytical Chemistry</span>
+        <span class="title">Unrolled Majorization-Minimization Approaches for Sparse Signal Reconstruction in Analytical Chemistry
+        <a href="{{ '/assets/pdf/S2_06P_EC_main_AIWILDWest.pdf' | relative_url }}" target="_blank">
+          pdf
+          </a>
+        </span>
         Émilie Chouzenoux
       </div>
     </td>
@@ -158,7 +170,11 @@ PRompt Optimization</span>
   <tr class="plenary"><td>15:45 – 16:35</td>
     <td>
       <div class="item">
-        <span class="title">Opportunities and Challenges for Machine Learning in Positron Emission Tomography</span>
+        <span class="title">Opportunities and Challenges for Machine Learning in Positron Emission Tomography
+        <a href="{{ '/assets/pdf/S2_09P_GS_pet_ai_overview_AIWILDWest.pdf' | relative_url }}" target="_blank">
+          pdf
+          </a>
+        </span>
         Georg Schramm
       </div>
     </td>
